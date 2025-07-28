@@ -11,17 +11,14 @@
             "id": "4f832c8ff0f369d5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "100 Computer Science/120 Research/121 GraphRAG/001b Node_associaition.canvas",
-                "viewState": {
-                  "x": -1268.3395227897154,
-                  "y": -161.78186889879558,
-                  "zoom": -0.19351000286098613
-                }
+                "file": "1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "001b Node_associaition"
+              "icon": "lucide-file",
+              "title": "1"
             }
           }
         ]
@@ -182,8 +179,10 @@
   },
   "active": "4f832c8ff0f369d5",
   "lastOpenFiles": [
-    "100 Computer Science/120 Research/121 GraphRAG/001a 罕见病风险预测_Graph_NodeLable.md",
+    "100 Computer Science/101 English Words/001a.md",
+    "1.md",
     "100 Computer Science/120 Research/121 GraphRAG/001b Node_associaition.canvas",
+    "100 Computer Science/120 Research/121 GraphRAG/001a 罕见病风险预测_Graph_NodeLable.md",
     "100 Computer Science/101 English Words/004a.md",
     "100 Computer Science/111 Python/1a arguments Python中参数类型.md",
     "100 Computer Science/101 English Words/002a.md",
@@ -193,7 +192,6 @@
     "000 Index/Dictionaries.md",
     "000 Index/Welcome.md",
     "2025-07-28.md",
-    "100 Computer Science/101 English Words/001a.md",
     "200 Music/210 Keyboard Theory",
     "200 Music",
     "100 Computer Science/120 Research/121 GraphRAG",
