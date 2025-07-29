@@ -8,4 +8,4 @@ tags:
 ![[004a]]
 
 
-![[001b Node_associaition.canvas|001b Node_associaition]]
+![[001a Node_associaition.canvas|001b Node_associaition]]
