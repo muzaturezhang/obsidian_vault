@@ -11,14 +11,17 @@
             "id": "4f832c8ff0f369d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "graphRAG融入MAC过程梳理.md",
-                "mode": "source",
-                "source": false
+                "file": "将KG-RAG融入MAC的思路图.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "graphRAG融入MAC过程梳理"
+              "icon": "lucide-layout-dashboard",
+              "title": "将KG-RAG融入MAC的思路图"
             }
           }
         ]
@@ -179,8 +182,9 @@
   },
   "active": "4f832c8ff0f369d5",
   "lastOpenFiles": [
-    "100 Computer Science/120 Research/121 GraphRAG/001a Node_associaition.canvas",
     "graphRAG融入MAC过程梳理.md",
+    "将KG-RAG融入MAC的思路图.canvas",
+    "100 Computer Science/120 Research/121 GraphRAG/001a Node_associaition.canvas",
     "100 Computer Science/120 Research/121 GraphRAG/001 罕见病风险预测_Graph_NodeLable.md",
     "生活提醒.md",
     "计算机问题.md",
