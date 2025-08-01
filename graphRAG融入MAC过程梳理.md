@@ -18,3 +18,20 @@ tags:
 
 
  5. 大语言LLM模型将输出的结果按照args里的路径生成文件；
+
+
+
+
+neo4j graph_rag实现的功能：
+	1. 生成一个graph_rag_pipeline
+		(其中包含
+			retriever(包含一个t2c的LLM`(先把text转化成cypher语言)`
+				        一个driver`(驱动query相关信息)`   )
+		     answer_llm(用于把检索到的信息生成最终答案)
+	2. 生成一个query_knowledge_graph，用于传入、检索并返回
+
+现在怎样把它融入MAC中呢：
+直接 把MAC的每个agent每次生成answer这一个过程 替换为 调用一次query_knowledge_graph（但是好像不管什么时候调用query_knowledge_graph，最终用的实际上是同一个llm）
+
+或者还有一种思路：
+还是像原来一样在MAC_main.py中逐个生成agent，但是让这些agents在发言的时候每次都调用一下GraphRAG这个功能(但是不知道有没有这种功能)
