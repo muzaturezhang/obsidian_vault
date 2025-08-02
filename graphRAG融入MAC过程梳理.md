@@ -22,7 +22,7 @@ tags:
 
 
 
-neo4j graph_rag实现的功能：
+>**neo4j graph_rag实现的功能：**
 	1. 生成一个graph_rag_pipeline
 		(其中包含
 			retriever(包含一个t2c的LLM`(先把text转化成cypher语言)`
