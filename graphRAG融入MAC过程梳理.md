@@ -46,3 +46,7 @@ neo4j graph_rag实现的功能：
 > 1. MAC中每个agent (✅)
 > 2. GraphRAG中text2cypher的AI (✅)
 > 3. GraphRAG中返回自然语言的AI (✅)
+
+
+>**SSL 证书校验失败**
+>
