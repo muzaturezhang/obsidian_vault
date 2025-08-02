@@ -41,4 +41,8 @@ neo4j graph_rag实现的功能：
 1. 不加kg_expert时，可以跑通并生成会话文件
 2. 单独人为输入问题并通过graphRAG返回答案，可以跑通
 3. 使用其他agent生成问题，并通过graphRAG返回答案，不能跑通
-4. 
+
+>**整个过程使用的AI**
+> 1. MAC中每个agent (✅)
+> 2. GraphRAG中text2cypher的AI (✅)
+> 3. GraphRAG中返回自然语言的AI (✅)
