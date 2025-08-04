@@ -6,6 +6,8 @@ tags:
   - csGrammar
   - Python
 ---
+**参考原文：**
+[Python 为什么会有命名关键字参数？ - 追远·J的回答 - 知乎](https://www.zhihu.com/question/57726430/answer/818740295)
 
 ## 宏观分类_Python中的参数类型
 
