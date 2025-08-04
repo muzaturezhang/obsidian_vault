@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "100 Computer Science/111 Python/001 arguments Python中参数类型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 001 arguments Python中参数类型"
             }
           },
           {
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "100 Computer Science/111 Python/001 arguments Python中参数类型.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of 001 arguments Python中参数类型"
             }
           },
           {
@@ -160,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -177,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f832c8ff0f369d5",
+  "active": "4170f70196f0fc23",
   "lastOpenFiles": [
     "100 Computer Science/120 Research/121 GraphRAG/001a Node_associaition.canvas",
     "000 Index/Dictionaries.md",
