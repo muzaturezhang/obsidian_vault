@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c91c21f9d95b5ef8",
+        "id": "a9a444a8c4f4d365",
         "type": "tabs",
         "children": [
           {
-            "id": "4f832c8ff0f369d5",
+            "id": "c5ed0130203688d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000 Index/学习方法草稿.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "学习方法草稿"
+              "title": "New tab"
             }
           }
         ]
@@ -141,13 +137,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Index/学习方法草稿.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 学习方法草稿"
+              "title": "Outline"
             }
           },
           {
@@ -178,12 +173,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f832c8ff0f369d5",
+  "active": "c5ed0130203688d2",
   "lastOpenFiles": [
+    "100 Computer Science/111 Python/001 arguments Python中参数类型.md",
+    "000 Index/学习方法草稿.md",
     "000 Index/踩过坑的学习方法.md",
     "000 Index/带研究灵感、议题.md",
-    "000 Index/学习方法草稿.md",
-    "100 Computer Science/111 Python/001 arguments Python中参数类型.md",
     "100 Computer Science/120 Research/121 GraphRAG/001a Node_associaition.canvas",
     "000 Index/Dictionaries.md",
     "999 templates/210 Keyboard Theory_Template.md",
