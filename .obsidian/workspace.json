@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Computer Science/101 English Words/001a.md",
+                "file": "100 Computer Science/111 Python/002 word_frequency.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001a"
+              "title": "002 word_frequency"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Computer Science/101 English Words/001a.md",
+                "file": "100 Computer Science/111 Python/002 word_frequency.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 001a"
+              "title": "Outline of 002 word_frequency"
             }
           },
           {
@@ -180,18 +180,18 @@
   },
   "active": "c5ed0130203688d2",
   "lastOpenFiles": [
-    "100 Computer Science/101 English Words/002a.md",
-    "100 Computer Science/111 Python/002 word_frequency.md",
-    "100 Computer Science/101 English Words/001a.md",
+    "100 Computer Science/101 English Words/003a.md",
+    "100 Computer Science/101 English Words/004a.md",
     "100 Computer Science/111 Python/001 arguments Python中参数类型.md",
+    "100 Computer Science/101 English Words/002a.md",
+    "100 Computer Science/101 English Words/001a.md",
+    "100 Computer Science/111 Python/002 word_frequency.md",
     "100 Computer Science/100.5 其他关于CS的问题/CS项目灵感.md",
     "100 Computer Science/100.5 其他关于CS的问题/计算机问题.md",
     "000 Index/Dictionaries.md",
     "100 Computer Science/120 Research/121 GraphRAG/graphRAG融入MAC过程梳理.md",
     "100 Computer Science/120 Research/121 GraphRAG/将KG-RAG融入MAC的思路图.canvas",
     "100 Computer Science/120 Research/121 GraphRAG/001 罕见病风险预测_Graph_NodeLable.md",
-    "100 Computer Science/101 English Words/004a.md",
-    "100 Computer Science/101 English Words/003a.md",
     "999 templates/001a csEnglishWordsTemplate.md",
     "100 Computer Science/111 Python/111.5",
     "000 Index/待学习主题列表.md",
