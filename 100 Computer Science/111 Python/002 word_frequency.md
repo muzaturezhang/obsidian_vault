@@ -58,7 +58,16 @@ tags:
 >>eg. `txt="  1 2 3"
 >>`txt.split(' ')`
 >>`#则此时返回['','','1','2','3'](之所以前面分割出了两个空白字符串，是因为原txt前面有两个consecutive whitespace(见特殊情况1))`
+> 4.若空白字符串或由whitespace组成的字符串在没有传参的情况下被delimit，则返回的列表为空；若空白字符串被指定非空白字符串delimit，则返回的列表里有一个空白字符串
+>> eg. `txt1=''
+>> `txt2='  '
+>> `txt1.split()  #返回[]
+>> `txt2.split()  #返回[]
+>> 原因：由于
 
+
+
+##### dict.get(key, default=None, \)
 
 ### Grammar
 ##### Python中str外面什么时候用''(单引号)，什么时候用""(双引号)，什么时候用''' '''(三引号)
@@ -71,3 +80,5 @@ tags:
 >3. 长字符串、跨行字符串用三引号(只有三引号能引跨行字符串)
 >eg. `txt='''People use digital tools every day. Digital tools help people share information.With technology, people can access information quickly. However, too much use of digitaltechnology can lead to problems. People need to use technology wisely and think criticallyabout the information they receive.'''`
 >4. 文档字符串docstring一般用三引号
+
+
