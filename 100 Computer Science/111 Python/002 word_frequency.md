@@ -15,8 +15,13 @@ tags:
 ##### substring
 >子字符串
 
+##### mapping
+>一种键值对 key-value 的数据结构，最常见的为dictionary字典
 
 
+##### docstring
+>文档字符串
+>用来标注说明**模块、函数、方法、类**的字符串，写在函数定义的下面
 ### Method
 
 ##### str.replace(old, new[, count])
@@ -69,7 +74,23 @@ tags:
 > 原因：传参时，若在被分割字符串中没有找到delimiter，则相当于没被分割，则返回列表中有一个空字符串
 
 
-##### dict.get(key, default=None, \)
+##### dict.get(key, default=None, /)
+>**返回key值对应的value；若找不到key值，则返回default值**
+>注意：最后的'/'表明前面两个参数都为限定位置参数，则传入的实参必须为位置参数
+>
+>作用:
+>1. 给定key，找到dictionary中key对应的value
+>2. 若找不到key，则会返回None或传入的default值(比如0)，这样就不会throw an keyError exception了
+>> eg. `a1={'good':3, 'well':5}`
+>> `a1.get('good',0)  #返回3`
+>> `a1.get('bad',0)  #返回0`
+>>但`a1['bad'] #这会throw 一个 keyError exception`
+
+
+
+
+
+
 
 ### Grammar
 ##### Python中str外面什么时候用''(单引号)，什么时候用""(双引号)，什么时候用''' '''(三引号)
@@ -83,4 +104,6 @@ tags:
 >eg. `txt='''People use digital tools every day. Digital tools help people share information.With technology, people can access information quickly. However, too much use of digitaltechnology can lead to problems. People need to use technology wisely and think criticallyabout the information they receive.'''`
 >4. 文档字符串docstring一般用三引号
 
+##### KeyError Exception
+>**当传入的key在key set中没有找到时，就会抛出一个KeyError Exception**
 
