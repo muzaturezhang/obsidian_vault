@@ -58,13 +58,15 @@ tags:
 >>eg. `txt="  1 2 3"
 >>`txt.split(' ')`
 >>`#则此时返回['','','1','2','3'](之所以前面分割出了两个空白字符串，是因为原txt前面有两个consecutive whitespace(见特殊情况1))`
-> 4.若空白字符串或由whitespace组成的字符串在没有传参的情况下被delimit，则返回的列表为空；若空白字符串被指定非空白字符串delimit，则返回的列表里有一个空白字符串
+> 4.若空白字符串或由whitespace组成的字符串在没有传参或传入 sep=None 的情况下被delimit，则返回的列表为空；若空白字符串被指定非空白字符串delimit，则返回的列表里有一个空白字符串
 >> eg. `txt1=''
 >> `txt2='  '
 >> `txt1.split()  #返回[]
 >> `txt2.split()  #返回[]
->> 原因：由于
-
+> 原因：由于没有传参时，默认将连续的whitespace作为delimiter，且忽略heading and trailing whitespace，则此时被分割的空白字符串或whitespace 字符串整体被忽略无效，则返回空列表
+>> eg. `txt=''
+>> `txt.split(',')   #返回['']
+> 原因：传参时，若在被分割字符串中没有找到delimiter，则相当于没被分割，则返回列表中有一个空字符串
 
 
 ##### dict.get(key, default=None, \)
