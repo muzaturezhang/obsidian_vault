@@ -11,14 +11,17 @@
             "id": "c5ed0130203688d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "100 Computer Science/100.5 其他关于CS的问题/CS项目灵感.md",
-                "mode": "source",
-                "source": false
+                "file": "200 Music/230 Electronic Music Production with Ableton Live/001a production_structure.canvas",
+                "viewState": {
+                  "x": -28.47387739214926,
+                  "y": 180.0839818748441,
+                  "zoom": -0.3617352380355198
+                }
               },
-              "icon": "lucide-file",
-              "title": "CS项目灵感"
+              "icon": "lucide-layout-dashboard",
+              "title": "001a production_structure"
             }
           }
         ]
@@ -53,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:cs",
+                "query": "tag:#in",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Computer Science/100.5 其他关于CS的问题/CS项目灵感.md",
+                "file": "200 Music/230 Electronic Music Production with Ableton Live/001a production_structure.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CS项目灵感"
+              "title": "Outline of 001a production_structure"
             }
           },
           {
@@ -165,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,6 +184,11 @@
   },
   "active": "c5ed0130203688d2",
   "lastOpenFiles": [
+    "200 Music/230 Electronic Music Production with Ableton Live/001 Introduction.md",
+    "200 Music/230 Electronic Music Production with Ableton Live/001a production_structure.canvas",
+    "200 Music/210 Keyboard Theory/1.md",
+    "200 Music/230 Electronic Music Production with Ableton Live",
+    "100 Computer Science/100.5 其他关于CS的问题/CS项目灵感.md",
     "001 Bits,Bytes.md",
     "100 Computer Science/111 Python/002 word_frequency.md",
     "100 Computer Science/130 Couse_Notes/131 CSAPP",
@@ -199,7 +208,6 @@
     "100 Computer Science/101 English Words/002a.md",
     "100 Computer Science/101 English Words/004a.md",
     "100 Computer Science/120 Research/121 GraphRAG/001 罕见病风险预测_Graph_NodeLable.md",
-    "100 Computer Science/100.5 其他关于CS的问题/CS项目灵感.md",
     "100 Computer Science/111 Python/001 arguments Python中参数类型.md",
     "100 Computer Science/101 English Words/001a.md",
     "000 Index/Dictionaries.md",
@@ -210,15 +218,11 @@
     "999 templates/210 Keyboard Theory_Template.md",
     "100 Computer Science/100.5 其他关于CS的问题",
     "200 Music/220 music_production/001_making_EDM.md",
-    "200 Music/210 Keyboard Theory/1.md",
     "200 Music/220 music_production",
-    "000 Index/nektarGX49_manual.md",
-    "2025-07-28.md",
     "200 Music/210 Keyboard Theory",
     "200 Music",
     "100 Computer Science/120 Research/121 GraphRAG",
     "100 Computer Science/120 Research",
-    "100 Computer Science/111 Python",
     "000 Index/Untitled.canvas"
   ]
 }

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"83202ffc67dbeffe","x":-240,"y":-180,"width":316,"height":60,"type":"text","text":"**Audio Effect Programming**"},
+		{"id":"8499a457af1ce1e2","x":-240,"y":20,"width":250,"height":60,"type":"text","text":"**Arranging Tracks**"},
+		{"id":"a59e3d8823b047e4","x":-240,"y":220,"width":250,"height":60,"type":"text","text":"**Mastering**"},
+		{"id":"8fc0e72bb8bdd287","x":-240,"y":160,"width":250,"height":60,"type":"text","text":"**Mixing Down**"},
+		{"id":"5182c4675c617d54","x":-240,"y":-120,"width":250,"height":60,"type":"text","text":"**Sampling**"},
+		{"id":"500b119250071cc6","x":-240,"y":-240,"width":250,"height":60,"type":"text","text":"**Drum Programming**"}
+	],
+	"edges":[]
+}
