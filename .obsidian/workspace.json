@@ -11,17 +11,14 @@
             "id": "c5ed0130203688d2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "200 Music/230 Electronic Music Production with Ableton Live/001a production_structure.canvas",
-                "viewState": {
-                  "x": -28.47387739214926,
-                  "y": 180.0839818748441,
-                  "zoom": -0.3617352380355198
-                }
+                "file": "专注力持续力训练.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "001a production_structure"
+              "icon": "lucide-file",
+              "title": "专注力持续力训练"
             }
           }
         ]
@@ -144,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200 Music/230 Electronic Music Production with Ableton Live/001a production_structure.canvas",
+                "file": "专注力持续力训练.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 001a production_structure"
+              "title": "Outline of 专注力持续力训练"
             }
           },
           {
@@ -184,8 +181,11 @@
   },
   "active": "c5ed0130203688d2",
   "lastOpenFiles": [
-    "200 Music/230 Electronic Music Production with Ableton Live/001 Introduction.md",
+    "专注力持续力训练.md",
+    "2025-08-01.md",
+    "100 Computer Science/100.5 其他关于CS的问题/计算机问题.md",
     "200 Music/230 Electronic Music Production with Ableton Live/001a production_structure.canvas",
+    "200 Music/230 Electronic Music Production with Ableton Live/001 Introduction.md",
     "200 Music/210 Keyboard Theory/1.md",
     "200 Music/230 Electronic Music Production with Ableton Live",
     "100 Computer Science/100.5 其他关于CS的问题/CS项目灵感.md",
@@ -195,7 +195,6 @@
     "100 Computer Science/130 Couse_Notes/131 CSAPP.md",
     "100 Computer Science/130 Couse_Notes",
     "100 Computer Science/100.5 其他关于CS的问题/计算机技术上的问题.md",
-    "100 Computer Science/100.5 其他关于CS的问题/计算机问题.md",
     "000 Index/学习方法草稿.md",
     "000 Index/生活提醒.md",
     "000 Index/带研究灵感、议题.md",
@@ -217,7 +216,6 @@
     "000 Index/Welcome.md",
     "999 templates/210 Keyboard Theory_Template.md",
     "100 Computer Science/100.5 其他关于CS的问题",
-    "200 Music/220 music_production/001_making_EDM.md",
     "200 Music/220 music_production",
     "200 Music/210 Keyboard Theory",
     "200 Music",
