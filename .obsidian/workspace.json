@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Computer Science/111 Python/002 word_frequency.md",
+                "file": "000 Index/捕捉卡片盒/25082001.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002 word_frequency"
+              "title": "25082001"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
@@ -182,13 +183,16 @@
   },
   "active": "c5ed0130203688d2",
   "lastOpenFiles": [
+    "000 Index/AAA-专注力持续力训练.md",
+    "000 Index/捕捉卡片盒/25082001.md",
+    "100 Computer Science/111 Python/002 word_frequency.md",
+    "000 Index/捕捉卡片盒",
     "100 Computer Science/111 Python/001 arguments Python中参数类型.md",
     "100 Computer Science/100.5 其他关于CS的问题/计算机技术上的问题.md",
     "200 Music/230 Electronic Music Production with Ableton Live/001 Introduction.md",
     "200 Music/230 Electronic Music Production with Ableton Live/001a production_structure.canvas",
     "999 templates/210 Keyboard Theory_Template.md",
     "999 templates/001a csEnglishWordsTemplate.md",
-    "000 Index/AAA-专注力持续力训练.md",
     "000 Index/Dictionaries.md",
     "000 Index/生活提醒.md",
     "000 Index/学习方法草稿.md",
@@ -200,7 +204,6 @@
     "200 Music/210 Keyboard Theory/1.md",
     "200 Music/230 Electronic Music Production with Ableton Live",
     "100 Computer Science/100.5 其他关于CS的问题/CS项目灵感.md",
-    "100 Computer Science/111 Python/002 word_frequency.md",
     "100 Computer Science/130 Couse_Notes/131 CSAPP",
     "100 Computer Science/130 Couse_Notes/131 CSAPP.md",
     "100 Computer Science/130 Couse_Notes",
@@ -220,7 +223,6 @@
     "200 Music/210 Keyboard Theory",
     "200 Music",
     "100 Computer Science/120 Research/121 GraphRAG",
-    "100 Computer Science/120 Research",
     "000 Index/Untitled.canvas"
   ]
 }
