@@ -2,7 +2,7 @@
 Date: 2025-08-24
 tags:
   - Quant
-  - BasicConcepts
+  - QuantBasicConcepts
 ---
 Quantitative investment 指根据**stock characteristic**来总结出rules，即**mathematical model**，根据数学模型进行投资，决定**when，how much，which stock**to invest in.
 
