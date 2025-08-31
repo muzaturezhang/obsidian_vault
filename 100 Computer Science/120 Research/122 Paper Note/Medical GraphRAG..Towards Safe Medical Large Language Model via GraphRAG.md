@@ -66,18 +66,6 @@ LLM 在**医学领域**面临的挑战
 
 ------------------------------------------------------------------------
 
-## MedGraphRAG整体工作流程
-
-语义文档切分（Semantic Document Chunking）
-
-实体抽取（Entities Extraction）
-e = {name, type, context}
-
-
-
-
-
-
 
 ## 实验验证与结果
 
