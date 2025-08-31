@@ -17,6 +17,7 @@ Medical knowledge bases (KBs) 包括 **clinical resources(临床资源), electro
 e.g., using abbreviations, synonyms, or misspellings.
 
 
+------------------------------------------------------------------------
 
 ## ED-GNN Method
 
@@ -24,3 +25,21 @@ e.g., using abbreviations, synonyms, or misspellings.
 - tackle the entity disambiguation problem in medical text
 - based on three representative GNN models: **GraphSAGE, R-GCN, and MAGNN**
 - 结合**contextual information** and **structural dependencies**
+
+### ED-GNN 流程
+
+>**construc a query graph**
+	Nodes represent **候选实体** for each mention in the text.
+	Edges encode **relationships** among these candidates.
+
+>**利用GNN process the graph**
+>    聚合邻居节点信息进行信息传播，使 学到的embeddings同时具有**contextual and structural cues**.
+
+> 用 **classifier** predicts the correct entity based on **learned embeddings**
+
+
+------------------------------------------------------------------------
+
+## 实验结果
+
+ED-GNN achieves an average F1 score improvement of 7.3% over state-of-the-art baselines across five real-world datasets.
