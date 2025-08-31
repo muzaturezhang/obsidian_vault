@@ -9,3 +9,18 @@ tags:
 
 [Medical Entity Disambiguation Using Graph Neural Networks](https://arxiv.org/pdf/2104.01488)
 
+
+## 研究背景
+
+Medical knowledge bases (KBs) 包括 **clinical resources(临床资源), electronic health records(电子健康记录）, and laboratory tests(实验室测试)** 的数据. 
+但是，这些 data 中的 entity可能不是**canonical descriptions**in the KB.
+e.g., using abbreviations, synonyms, or misspellings.
+
+
+
+## ED-GNN Method
+
+- **end-to-end** framework (端到端)
+- tackle the entity disambiguation problem in medical text
+- based on three representative GNN models: **GraphSAGE, R-GCN, and MAGNN**
+- 结合**contextual information** and **structural dependencies**
