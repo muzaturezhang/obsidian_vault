@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Index/001 任务中断记录/001 LaTeX学习.md",
+                "file": "000 Index/001 任务中断记录/任务中断记录(任务终止时必记录).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001 LaTeX学习"
+              "title": "任务中断记录(任务终止时必记录)"
             }
           }
         ]
@@ -183,8 +183,8 @@
   },
   "active": "1eede9bdeee7ec26",
   "lastOpenFiles": [
-    "000 Index/001 任务中断记录/任务中断记录(任务终止时必记录).md",
     "000 Index/001 任务中断记录/001 LaTeX学习.md",
+    "000 Index/001 任务中断记录/任务中断记录(任务终止时必记录).md",
     "000 Index/002 学习方法盒/000002020001.md",
     "000 Index/001 任务中断记录",
     "0000 任务中断记录.md",
