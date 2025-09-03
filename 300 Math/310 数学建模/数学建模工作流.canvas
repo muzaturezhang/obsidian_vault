@@ -18,7 +18,6 @@
 		{"id":"3051a11de679422e","type":"text","text":"(如有)做好数据清洗","x":-520,"y":-47,"width":250,"height":60},
 		{"id":"01c9d095ea53394b","type":"text","text":"学习相关算法","x":-520,"y":13,"width":250,"height":60},
 		{"id":"b697cf120e88cdbe","type":"text","text":"**整体**","x":-871,"y":180,"width":250,"height":60},
-		{"id":"68885773eb714ca8","type":"text","text":"找几篇相关论文学习建模思路、代码编写","x":-500,"y":180,"width":250,"height":60},
 		{"id":"dee006b543264be0","type":"text","text":"写论文","x":-521,"y":510,"width":250,"height":60},
 		{"id":"8d50782afdd02869","type":"text","text":"及时添加模型假设和符号说明","x":-522,"y":570,"width":250,"height":60},
 		{"id":"be16e12d46a066df","type":"text","text":"**论文手**","x":-831,"y":540,"width":250,"height":60},
@@ -34,8 +33,6 @@
 		{"id":"26349cca2b97bb13","type":"text","text":"### 第四天","x":480,"y":1060,"width":250,"height":60},
 		{"id":"8276d8e381530ca9","type":"text","text":"**论文手**","x":400,"y":-70,"width":250,"height":60},
 		{"id":"3f225b438b01b516","type":"text","text":"画图做可视化","x":717,"y":90,"width":250,"height":60},
-		{"id":"008f7dfaee7311ac","type":"text","text":"**整体**","x":400,"y":120,"width":250,"height":60},
-		{"id":"7f363b9a548b395d","type":"text","text":"看有没有需要模拟仿真的地方，用仿真结果与模型结果对比评价","x":717,"y":150,"width":250,"height":80},
 		{"id":"89543232519be76c","type":"text","text":"继续编写论文","x":717,"y":-100,"width":250,"height":60},
 		{"id":"5dfc7d36da6f09a3","type":"text","text":"调整排版、结构","x":717,"y":-40,"width":250,"height":60},
 		{"id":"5593963a6b3b725f","type":"text","text":"做模型的优化改进并对比不同模型的优劣，保证论文思路的完整性、创新性","x":717,"y":-383,"width":250,"height":89},
@@ -59,7 +56,12 @@
 		{"id":"c01fc84269e66142","type":"text","text":"每个人读几遍全文找问题","x":1240,"y":1805,"width":250,"height":60},
 		{"id":"8604ec11f36d841a","type":"text","text":"检查思路是否有问题","x":1240,"y":1625,"width":250,"height":60},
 		{"id":"b6ba741ea6249a1b","type":"text","text":"确定论文标题","x":1240,"y":1320,"width":250,"height":60},
-		{"id":"efc0d71b718a41b4","type":"text","text":"删改符号定义位置及顺序，统一变量命名(比如不同的变量标上对应题号)","x":1240,"y":1380,"width":250,"height":90}
+		{"id":"efc0d71b718a41b4","type":"text","text":"删改符号定义位置及顺序，统一变量命名(比如不同的变量标上对应题号)","x":1240,"y":1380,"width":250,"height":90},
+		{"id":"68885773eb714ca8","type":"text","text":"找几篇相关论文学习建模思路、代码编写","x":-520,"y":150,"width":250,"height":60},
+		{"id":"80596cdc11d98505","type":"text","text":"大概明确一下有哪些参数变量，三个人统一一下它们的名称","x":-520,"y":210,"width":250,"height":94},
+		{"id":"47e064f985e56481","x":717,"y":150,"width":250,"height":60,"type":"text","text":"每一问都画建模思路的流程图"},
+		{"id":"7f363b9a548b395d","type":"text","text":"看有没有需要模拟仿真的地方，用仿真结果与模型结果对比评价","x":717,"y":210,"width":250,"height":80},
+		{"id":"008f7dfaee7311ac","type":"text","text":"**整体**","x":400,"y":150,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"f4ad6db9511f62b6","fromNode":"b27b48377525b2da","fromSide":"left","toNode":"b8b34484ff660c19","toSide":"right"},
@@ -117,6 +119,8 @@
 		{"id":"93867113697a3ec0","fromNode":"5593963a6b3b725f","fromSide":"left","toNode":"8c2e3906a2c0c6ff","toSide":"right"},
 		{"id":"c8c9a2c0e628ff86","fromNode":"be16e12d46a066df","fromSide":"left","toNode":"75b35a56e2141293","toSide":"right"},
 		{"id":"0c1eb8ca8eca5964","fromNode":"51998f678a17c9d9","fromSide":"left","toNode":"75b35a56e2141293","toSide":"right"},
-		{"id":"6d3779d2221b5ad1","fromNode":"2600b4c4f151f8f6","fromSide":"left","toNode":"75b35a56e2141293","toSide":"right"}
+		{"id":"6d3779d2221b5ad1","fromNode":"2600b4c4f151f8f6","fromSide":"left","toNode":"75b35a56e2141293","toSide":"right"},
+		{"id":"3619e33367ac6385","fromNode":"80596cdc11d98505","fromSide":"left","toNode":"b697cf120e88cdbe","toSide":"right"},
+		{"id":"356b88b464e09a13","fromNode":"47e064f985e56481","fromSide":"left","toNode":"008f7dfaee7311ac","toSide":"right"}
 	]
 }
