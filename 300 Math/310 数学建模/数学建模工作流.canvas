@@ -62,7 +62,7 @@
 		{"id":"bf135055b8b2b993","type":"text","text":"模型敏感性分析等模型评价","x":717,"y":-263,"width":250,"height":60},
 		{"id":"5593963a6b3b725f","type":"text","text":"做模型的优化改进并对比不同模型的优劣，保证论文思路的完整性、创新性","x":717,"y":-353,"width":250,"height":89},
 		{"id":"ebdff458a3e70cbe","type":"text","text":"看一下论文手前面写的内容，补充算法思路内容","x":717,"y":-408,"width":250,"height":50},
-		{"id":"96a2543bfaec3fa2","x":717,"y":-540,"width":250,"height":60,"type":"text","text":"每一问都做一个结果评价分析"}
+		{"id":"96a2543bfaec3fa2","type":"text","text":"每一问都做一个结果评价分析，找已有研究模型进行模型检验","x":717,"y":-540,"width":250,"height":80}
 	],
 	"edges":[
 		{"id":"f4ad6db9511f62b6","fromNode":"b27b48377525b2da","fromSide":"left","toNode":"b8b34484ff660c19","toSide":"right"},
