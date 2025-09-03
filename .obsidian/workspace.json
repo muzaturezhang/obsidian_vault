@@ -11,17 +11,14 @@
             "id": "1eede9bdeee7ec26",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "300 Math/310 数学建模/数学建模工作流.canvas",
-                "viewState": {
-                  "x": 115,
-                  "y": 582.5,
-                  "zoom": -2.029704733856093
-                }
+                "file": "300 Math/310 数学建模/建模手数学建模过程中注意事项.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "数学建模工作流"
+              "icon": "lucide-file",
+              "title": "建模手数学建模过程中注意事项"
             }
           }
         ]
@@ -186,14 +183,14 @@
   },
   "active": "1eede9bdeee7ec26",
   "lastOpenFiles": [
-    "000 Index/001 任务中断记录/学习中的想法记录.md",
-    "000 Index/001 任务中断记录/任务中断记录(任务终止时必记录).md",
+    "300 Math/310 数学建模/数学建模工作流.canvas",
     "300 Math/310 数学建模/建模手数学建模过程中注意事项.md",
     "300 Math/310 数学建模/待学习列表.md",
     "300 Math/310 数学建模/312 数学建模需要的流程步骤.md",
-    "300 Math/310 数学建模/311 待学数学技巧列表.md",
     "300 Math/310 数学建模/数学建模美化论文、加印象分的方式.md",
-    "300 Math/310 数学建模/数学建模工作流.canvas",
+    "300 Math/310 数学建模/311 待学数学技巧列表.md",
+    "000 Index/001 任务中断记录/学习中的想法记录.md",
+    "000 Index/001 任务中断记录/任务中断记录(任务终止时必记录).md",
     "100 Computer Science/120 Research/122 Paper Note/Medical GraphRAG..Towards Safe Medical Large Language Model via GraphRAG.md",
     "100 Computer Science/100.5 其他关于CS的问题/计算机需要进行的长期任务.md",
     "100 Computer Science/120 Research/122 Paper Note/Medical Entity Disambiguation(消歧) Using Graph Neural Networks.md",
