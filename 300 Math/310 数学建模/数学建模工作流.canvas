@@ -2,9 +2,6 @@
 	"nodes":[
 		{"id":"b8b34484ff660c19","type":"text","text":"### 第一天","x":-1220,"y":-107,"width":250,"height":60},
 		{"id":"b7314493a75a128d","type":"text","text":"**编程手**","x":-871,"y":8,"width":250,"height":60},
-		{"id":"4cbe49cf3da546ae","type":"text","text":"建模收尾","x":717,"y":-700,"width":250,"height":60},
-		{"id":"5acb5f48975fc602","type":"text","text":"看一下论文手前面写的内容，做模型内容和结构上的调整","x":717,"y":-640,"width":250,"height":60},
-		{"id":"f0c784fa93a9ad32","type":"text","text":"做模型的优化改进并对比不同模型的优劣，保证论文思路的完整性、创新性","x":717,"y":-580,"width":250,"height":80},
 		{"id":"8c2e3906a2c0c6ff","type":"text","text":"**编程手**","x":400,"y":-383,"width":250,"height":60},
 		{"id":"d4896fb82156e458","type":"text","text":"**建模手**","x":400,"y":-640,"width":250,"height":60},
 		{"id":"9546d212291f51f6","type":"text","text":"### 第三天","x":0,"y":-323,"width":250,"height":60},
@@ -27,7 +24,6 @@
 		{"id":"2600b4c4f151f8f6","type":"text","text":"**编程手**","x":-831,"y":1100,"width":250,"height":60},
 		{"id":"95001fd11419865d","type":"text","text":"根据模型确定算法和代码实现","x":-511,"y":1070,"width":250,"height":60},
 		{"id":"22a31f9d2e725108","type":"text","text":"**论文手**","x":940,"y":710,"width":250,"height":60},
-		{"id":"ebdff458a3e70cbe","type":"text","text":"看一下论文手前面写的内容，补充算法思路内容","x":717,"y":-433,"width":250,"height":50},
 		{"id":"f2d44c7d8857d088","type":"text","text":"写完摘要问题分析后加粗关键字","x":1240,"y":740,"width":250,"height":60},
 		{"id":"3cd11b3a5afa69a2","type":"text","text":"修改字体，排版(图片大小、文字型号)","x":1240,"y":680,"width":250,"height":60},
 		{"id":"26349cca2b97bb13","type":"text","text":"### 第四天","x":480,"y":1060,"width":250,"height":60},
@@ -35,8 +31,6 @@
 		{"id":"3f225b438b01b516","type":"text","text":"画图做可视化","x":717,"y":90,"width":250,"height":60},
 		{"id":"89543232519be76c","type":"text","text":"继续编写论文","x":717,"y":-100,"width":250,"height":60},
 		{"id":"5dfc7d36da6f09a3","type":"text","text":"调整排版、结构","x":717,"y":-40,"width":250,"height":60},
-		{"id":"5593963a6b3b725f","type":"text","text":"做模型的优化改进并对比不同模型的优劣，保证论文思路的完整性、创新性","x":717,"y":-383,"width":250,"height":89},
-		{"id":"bf135055b8b2b993","type":"text","text":"模型敏感性分析等模型评价","x":717,"y":-294,"width":250,"height":60},
 		{"id":"75b35a56e2141293","type":"text","text":"### 第二天","x":-1260,"y":845,"width":250,"height":50},
 		{"id":"8ee21ed73b97fd65","type":"text","text":"建好百分之八十的模型","x":-511,"y":910,"width":250,"height":60},
 		{"id":"75cdd8d0c032306a","type":"text","text":"若建模中发现前面有问题及时跟论文手说，直接修改","x":-511,"y":850,"width":250,"height":60},
@@ -59,9 +53,16 @@
 		{"id":"efc0d71b718a41b4","type":"text","text":"删改符号定义位置及顺序，统一变量命名(比如不同的变量标上对应题号)","x":1240,"y":1380,"width":250,"height":90},
 		{"id":"68885773eb714ca8","type":"text","text":"找几篇相关论文学习建模思路、代码编写","x":-520,"y":150,"width":250,"height":60},
 		{"id":"80596cdc11d98505","type":"text","text":"大概明确一下有哪些参数变量，三个人统一一下它们的名称","x":-520,"y":210,"width":250,"height":94},
-		{"id":"47e064f985e56481","x":717,"y":150,"width":250,"height":60,"type":"text","text":"每一问都画建模思路的流程图"},
+		{"id":"47e064f985e56481","type":"text","text":"每一问都画建模思路的流程图","x":717,"y":150,"width":250,"height":60},
 		{"id":"7f363b9a548b395d","type":"text","text":"看有没有需要模拟仿真的地方，用仿真结果与模型结果对比评价","x":717,"y":210,"width":250,"height":80},
-		{"id":"008f7dfaee7311ac","type":"text","text":"**整体**","x":400,"y":150,"width":250,"height":60}
+		{"id":"008f7dfaee7311ac","type":"text","text":"**整体**","x":400,"y":150,"width":250,"height":60},
+		{"id":"4cbe49cf3da546ae","type":"text","text":"建模收尾","x":717,"y":-740,"width":250,"height":60},
+		{"id":"5acb5f48975fc602","type":"text","text":"看一下论文手前面写的内容，做模型内容和结构上的调整","x":717,"y":-680,"width":250,"height":60},
+		{"id":"f0c784fa93a9ad32","type":"text","text":"做模型的优化改进并对比不同模型的优劣，保证论文思路的完整性、创新性","x":717,"y":-620,"width":250,"height":80},
+		{"id":"bf135055b8b2b993","type":"text","text":"模型敏感性分析等模型评价","x":717,"y":-263,"width":250,"height":60},
+		{"id":"5593963a6b3b725f","type":"text","text":"做模型的优化改进并对比不同模型的优劣，保证论文思路的完整性、创新性","x":717,"y":-353,"width":250,"height":89},
+		{"id":"ebdff458a3e70cbe","type":"text","text":"看一下论文手前面写的内容，补充算法思路内容","x":717,"y":-408,"width":250,"height":50},
+		{"id":"96a2543bfaec3fa2","x":717,"y":-540,"width":250,"height":60,"type":"text","text":"每一问都做一个结果评价分析"}
 	],
 	"edges":[
 		{"id":"f4ad6db9511f62b6","fromNode":"b27b48377525b2da","fromSide":"left","toNode":"b8b34484ff660c19","toSide":"right"},
@@ -121,6 +122,7 @@
 		{"id":"0c1eb8ca8eca5964","fromNode":"51998f678a17c9d9","fromSide":"left","toNode":"75b35a56e2141293","toSide":"right"},
 		{"id":"6d3779d2221b5ad1","fromNode":"2600b4c4f151f8f6","fromSide":"left","toNode":"75b35a56e2141293","toSide":"right"},
 		{"id":"3619e33367ac6385","fromNode":"80596cdc11d98505","fromSide":"left","toNode":"b697cf120e88cdbe","toSide":"right"},
-		{"id":"356b88b464e09a13","fromNode":"47e064f985e56481","fromSide":"left","toNode":"008f7dfaee7311ac","toSide":"right"}
+		{"id":"356b88b464e09a13","fromNode":"47e064f985e56481","fromSide":"left","toNode":"008f7dfaee7311ac","toSide":"right"},
+		{"id":"537c6c88629caf3c","fromNode":"96a2543bfaec3fa2","fromSide":"left","toNode":"d4896fb82156e458","toSide":"right"}
 	]
 }
