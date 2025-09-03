@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 Math/310 数学建模/论文规范.md",
+                "file": "000 Index/001 任务中断记录/学习中的想法记录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "论文规范"
+              "title": "学习中的想法记录"
             }
           }
         ]
@@ -183,10 +183,11 @@
   },
   "active": "1eede9bdeee7ec26",
   "lastOpenFiles": [
+    "000 Index/001 任务中断记录/任务中断记录(任务终止时必记录).md",
+    "300 Math/310 数学建模/论文规范.md",
     "300 Math/310 数学建模/312 数学建模需要的流程步骤.md",
     "300 Math/310 数学建模/311 待学数学技巧列表.md",
     "000 Index/001 任务中断记录/学习中的想法记录.md",
-    "000 Index/001 任务中断记录/任务中断记录(任务终止时必记录).md",
     "000 Index/001 任务中断记录/001 LaTeX学习.md",
     "000 Index/002 学习方法盒/000002020001.md",
     "000 Index/001 任务中断记录",
@@ -210,7 +211,6 @@
     "100 Computer Science/140 Quant Learning/Words/250825.md",
     "100 Computer Science/120 Research/122 Paper Note/Medical Entity Disambiguation(消歧) Using Graph Neural Networks.md",
     "100 Computer Science/120 Research/122 Paper Note/A Systematic Review of Graph Neural Network in Healthcare-Based Applications.. Recent Advances, Trends, and Future Directions.md",
-    "100 Computer Science/120 Research/122 Paper Note/Medical GraphRAG..Towards Safe Medical Large Language Model via GraphRAG.md",
     "100 Computer Science/120 Research/122 Paper Note",
     "Word",
     "700 Painting",
