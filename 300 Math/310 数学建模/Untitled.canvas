@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"ec174d7b3e81a5ab","type":"text","text":"","x":-201,"y":-47,"width":216,"height":85},
+		{"id":"b8b34484ff660c19","type":"text","text":"### 第一天","x":-1220,"y":-107,"width":250,"height":60},
+		{"id":"75b35a56e2141293","type":"text","text":"### 第二天","x":-1220,"y":580,"width":250,"height":50},
+		{"id":"b27b48377525b2da","type":"text","text":"**论文手**","x":-871,"y":-280,"width":250,"height":60},
+		{"id":"c6f7880bf5244b85","type":"text","text":"**建模手**","x":-871,"y":-120,"width":250,"height":60},
+		{"id":"b7314493a75a128d","type":"text","text":"**编程手**","x":-871,"y":8,"width":250,"height":60},
+		{"id":"f33ee27922b23f58","type":"text","text":"先起个大概的题目","x":-500,"y":-473,"width":250,"height":73},
+		{"id":"3a1cc7fce35f710e","type":"text","text":"写摘要背景","x":-500,"y":-400,"width":250,"height":60},
+		{"id":"9546d212291f51f6","type":"text","text":"### 第三天","x":-500,"y":290,"width":250,"height":60},
+		{"id":"26349cca2b97bb13","type":"text","text":"### 第四天","x":-451,"y":630,"width":250,"height":60},
+		{"id":"f2d44c7d8857d088","type":"text","text":"写完摘要问题分析后加粗关键字","x":160,"y":600,"width":250,"height":60},
+		{"id":"8f734d98ce19230e","type":"text","text":"写摘要具体的问题分析","x":160,"y":500,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"f4ad6db9511f62b6","fromNode":"b27b48377525b2da","fromSide":"left","toNode":"b8b34484ff660c19","toSide":"right"},
+		{"id":"c26409c0b8e28d90","fromNode":"c6f7880bf5244b85","fromSide":"left","toNode":"b8b34484ff660c19","toSide":"right"},
+		{"id":"a51e1a40bf32c8d7","fromNode":"b7314493a75a128d","fromSide":"left","toNode":"b8b34484ff660c19","toSide":"right"}
+	]
+}
