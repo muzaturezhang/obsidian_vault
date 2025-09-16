@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Computer Science/140 Quant Learning/Quant 问题.md",
+                "file": "000 Index/001 任务中断记录/任务中断记录(任务终止时必记录).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quant 问题"
+              "title": "任务中断记录(任务终止时必记录)"
             }
           }
         ],
@@ -212,13 +212,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Computer Science/140 Quant Learning/Quant 问题.md",
+                "file": "000 Index/001 任务中断记录/任务中断记录(任务终止时必记录).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Quant 问题"
+              "title": "Outline of 任务中断记录(任务终止时必记录)"
             }
           },
           {
@@ -253,8 +253,10 @@
   },
   "active": "be27b6ba11301450",
   "lastOpenFiles": [
-    "100 Computer Science/140 Quant Learning/Alpha 基础概念.md",
+    "000 Index/001 任务中断记录/学习中的想法记录.md",
+    "000 Index/001 任务中断记录/任务中断记录(任务终止时必记录).md",
     "100 Computer Science/140 Quant Learning/Quant 问题.md",
+    "100 Computer Science/140 Quant Learning/Alpha 基础概念.md",
     "100 Computer Science/140 Quant Learning/Words/250823.md",
     "100 Computer Science/111 Python/001 arguments Python中参数类型.md",
     "100 Computer Science/120 Research/122 Paper Note/A Comprehensive Survey on Graph NeuralNetworks.md",
@@ -263,9 +265,7 @@
     "100 Computer Science/100.5 其他关于CS的问题/计算机问题.md",
     "100 Computer Science/100.5 其他关于CS的问题/CS项目灵感.md",
     "100 Computer Science/100.5 其他关于CS的问题/计算机技术上的问题.md",
-    "000 Index/001 任务中断记录/学习中的想法记录.md",
     "000 Index/001 任务中断记录/001 LaTeX学习.md",
-    "000 Index/001 任务中断记录/任务中断记录(任务终止时必记录).md",
     "300 Math/310 数学建模/画图.md",
     "300 Math/310 数学建模/专业术语2.md",
     "专业术语.md",
