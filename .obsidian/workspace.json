@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Index/001 任务中断记录/任务中断记录(任务终止时必记录).md",
+                "file": "000 Index/001 任务中断记录/学习中的想法记录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "任务中断记录(任务终止时必记录)"
+              "title": "学习中的想法记录"
             }
           }
         ],
@@ -212,13 +212,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Index/001 任务中断记录/任务中断记录(任务终止时必记录).md",
+                "file": "000 Index/001 任务中断记录/学习中的想法记录.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 任务中断记录(任务终止时必记录)"
+              "title": "Outline of 学习中的想法记录"
             }
           },
           {
@@ -253,8 +253,8 @@
   },
   "active": "be27b6ba11301450",
   "lastOpenFiles": [
-    "000 Index/001 任务中断记录/学习中的想法记录.md",
     "000 Index/001 任务中断记录/任务中断记录(任务终止时必记录).md",
+    "000 Index/001 任务中断记录/学习中的想法记录.md",
     "100 Computer Science/140 Quant Learning/Quant 问题.md",
     "100 Computer Science/140 Quant Learning/Alpha 基础概念.md",
     "100 Computer Science/140 Quant Learning/Words/250823.md",
