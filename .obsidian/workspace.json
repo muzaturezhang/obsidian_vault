@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20250923 待学习清单.md",
+                "file": "20250923 零碎知识与思考.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250923 待学习清单"
+              "title": "20250923 零碎知识与思考"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20250923 待学习清单.md",
+                "file": "20250923 零碎知识与思考.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20250923 待学习清单"
+              "title": "Outline of 20250923 零碎知识与思考"
             }
           },
           {
@@ -182,11 +182,11 @@
   },
   "active": "be27b6ba11301450",
   "lastOpenFiles": [
+    "20250923 待学习清单.md",
     "20250923 零碎知识与思考.md",
     "20250923 为应用绑定一个快捷键.md",
     "2025数学建模备忘2.md",
     "截屏2025-09-07 03.08.42.png",
-    "20250923 待学习清单.md",
     "100 Computer Science/120 Research/121 GraphRAG/将KG-RAG融入MAC的思路图.canvas",
     "100 Computer Science/120 Research/121 GraphRAG/graphRAG融入MAC过程梳理.md",
     "100 Computer Science/160 ACM算法/161 算法之外的那些事/编程语言、编译器选择设置.md",
