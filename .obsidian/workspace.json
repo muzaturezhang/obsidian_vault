@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "95ff5d6479acaa6a",
+        "id": "ebc25c0e254a8f4f",
         "type": "tabs",
         "children": [
           {
-            "id": "ed5d5d4989d9ea70",
+            "id": "f9f27bf437722d9f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -175,8 +175,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ed5d5d4989d9ea70",
+  "active": "f9f27bf437722d9f",
   "lastOpenFiles": [
+    "100 Computer Science/111 Python/001 arguments Python中参数类型.md",
     "20250923 待学习清单.md",
     "20250924 问题.md",
     "20250924 零碎知识.md",
@@ -201,7 +202,6 @@
     "100 Computer Science/140 Quant Learning/Quant 问题.md",
     "100 Computer Science/140 Quant Learning/Alpha 基础概念.md",
     "100 Computer Science/140 Quant Learning/Words/250823.md",
-    "100 Computer Science/111 Python/001 arguments Python中参数类型.md",
     "100 Computer Science/120 Research/122 Paper Note/A Comprehensive Survey on Graph NeuralNetworks.md",
     "100 Computer Science/111 Python/002 word_frequency.md",
     "100 Computer Science/100.5 其他关于CS的问题/计算机需要进行的长期任务.md",
