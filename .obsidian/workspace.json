@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ebc25c0e254a8f4f",
+        "id": "72c26cc595ee7a3d",
         "type": "tabs",
         "children": [
           {
-            "id": "f9f27bf437722d9f",
+            "id": "2437c3419e79c23e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "100 Computer Science/120 Research/123 Research Pipeline/001 Environment Setup Pipeline.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "001 Environment Setup Pipeline"
             }
           }
         ]
@@ -51,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#in",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -139,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "100 Computer Science/120 Research/123 Research Pipeline/001 Environment Setup Pipeline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 001 Environment Setup Pipeline"
             }
           },
           {
@@ -177,9 +180,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c36718d012888560",
+  "active": "2437c3419e79c23e",
   "lastOpenFiles": [
-    "100 Computer Science/120 Research/123",
+    "123 Research Pipeline.md",
+    "100 Computer Science/120 Research/123 Research Pipeline/001 Environment Setup Pipeline.md",
+    "001 Bits,Bytes.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Untitled 2.base",
+    "100 Computer Science/111 Python/002 word_frequency.md",
+    "100 Computer Science/120 Research/123 Research Pipeline",
     "100 Computer Science/111 Python/001 arguments Python中参数类型.md",
     "20250923 待学习清单.md",
     "20250924 问题.md",
@@ -206,21 +217,13 @@
     "100 Computer Science/140 Quant Learning/Alpha 基础概念.md",
     "100 Computer Science/140 Quant Learning/Words/250823.md",
     "100 Computer Science/120 Research/122 Paper Note/A Comprehensive Survey on Graph NeuralNetworks.md",
-    "100 Computer Science/111 Python/002 word_frequency.md",
     "100 Computer Science/100.5 其他关于CS的问题/计算机需要进行的长期任务.md",
     "100 Computer Science/100.5 其他关于CS的问题/计算机问题.md",
-    "100 Computer Science/100.5 其他关于CS的问题/CS项目灵感.md",
-    "100 Computer Science/100.5 其他关于CS的问题/计算机技术上的问题.md",
     "300 Math/310 数学建模/Untitled",
     "300 Math/310 数学建模/数学建模工作流.canvas",
     "200 Music/230 Electronic Music Production with Ableton Live/001a production_structure.canvas",
     "000 Index/001 任务中断记录",
-    "Untitled.canvas",
     "100 Computer Science/120 Research/122 Paper Note",
-    "Word",
-    "700 Painting",
-    "300 Math/310 数学建模/312",
-    "300 Math/310 数学建模",
     "100 Computer Science/120 Research/121 GraphRAG/001a Node_associaition.canvas",
     "000 Index/Untitled.canvas"
   ]
