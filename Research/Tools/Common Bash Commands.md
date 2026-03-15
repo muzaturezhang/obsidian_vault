@@ -49,11 +49,17 @@ cd project_folder
 
 Go up one level:
 
+```shell
 cd ..
+```
+
 
 Go to home directory:
 
+```shell
 cd ~
+```
+
 
 ---
 
@@ -339,12 +345,12 @@ echo "test" > file.txt
 
 # 7. Useful Keyboard Shortcuts
 
-|Shortcut|Meaning|
-|---|---|
-|`Ctrl + C`|stop program|
-|`Ctrl + L`|clear terminal|
-|`↑`|previous command|
-|`Tab`|auto-complete|
+| Shortcut   | Meaning          |
+| ---------- | ---------------- |
+| `Ctrl + C` | stop program     |
+| `Ctrl + L` | clear terminal   |
+| `↑`        | previous command |
+| `Tab`      | auto-complete    |
 
 ---
 
