@@ -62,7 +62,9 @@ pip install torch torchvision matplotlib numpy
 
 Later you can save them:
 
+```shell
 pip freeze > requirements.txt
+```
 
 This file records all packages.
 
