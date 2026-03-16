@@ -72,7 +72,10 @@ Create a new directory.
 
 Example:
 
+```bash
 mkdir my_project
+```
+
 
 Create nested directories:
 
@@ -87,7 +90,9 @@ Create an empty file.
 
 Example:
 
+```bash
 touch train.py
+```
 
 ---
 
