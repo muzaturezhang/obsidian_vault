@@ -75,6 +75,153 @@ No conflict.
 
 **Virtual environment = a special type of Python environment designed for isolation.**
 
+## Two Ways of Createing Virtual Environments
+
+### 1️⃣ Virtual environment **inside the project folder** (common with `venv`)
+
+Example structure:
+
+clinic/  
+├── main.py  
+└── venv/  
+    ├── bin/python  
+    ├── bin/pip  
+    └── lib/python3.x/site-packages
+
+### How it works
+
+- You run:
+    
+
+python3 -m venv venv
+
+- It creates a **virtual environment folder called `venv`** **inside the current directory**.
+    
+- Activation:
+    
+
+source venv/bin/activate
+
+### Pros
+
+- Each project has its **own self-contained environment**.
+    
+- Easy to copy/share the project with the environment structure.
+    
+- Clear which environment belongs to which project.
+    
+
+### Cons
+
+- Takes more disk space if you have many projects (each copy of Python + libraries).
+    
+
+---
+
+### 2️⃣ Centralized virtual environments (common with Anaconda or `virtualenvwrapper`)
+
+Example structure:
+
+anaconda3/  
+├── envs/  
+│   ├── clinic_env/  
+│   │   ├── bin/python  
+│   │   └── lib/python3.x/site-packages  
+│   └── another_project_env/
+
+### How it works
+
+- You create a virtual environment **in a central location**:
+    
+
+conda create -n clinic_env python=3.11
+
+- Or with `virtualenvwrapper`:
+    
+
+mkvirtualenv clinic_env
+
+- The virtual environment is stored **outside your project folder**, in a common folder like:
+    
+
+~/.virtualenvs/
+
+### Pros
+
+- Saves space (if multiple projects share some libraries).
+    
+- Cleaner project folders (no `venv` folder inside the project).
+    
+
+### Cons
+
+- Less portable — if you copy the project to another computer, the environment is **not included** automatically.
+    
+- You have to remember which environment to activate for each project.
+    
+
+---
+
+# 3️⃣ Which one to choose?
+
+- **For small projects or pure Python projects**: put `venv` inside the project folder.
+    
+- **For large projects or data science workflows**: tools like **Anaconda** often use centralized environments.
+    
+
+---
+
+# 4️⃣ Mental picture
+
+**Project-specific venv:**
+
+project_folder/  
+├── main.py  
+└── venv/  
+    └── lib/python3.x/
+
+**Centralized environment:**
+
+~/anaconda3/envs/clinic_env/  
+├── bin/python  
+└── lib/python3.x/  
+  
+project_folder/  
+└── main.py
+
+Activation just points the `python` command to the correct environment.
+
+---
+
+# 5️⃣ How Python knows which environment to use
+
+The virtual environment works by **modifying the `PATH` variable** in your shell:
+
+- Inside project folder venv:
+    
+
+source venv/bin/activate
+
+- Centralized venv:
+    
+
+conda activate clinic_env
+
+Both do the **same thing**: make your shell find the correct `python` and `pip`.
+
+---
+
+✅ **Summary**
+
+|Style|Location|Pros|Cons|
+|---|---|---|---|
+|Project-local venv|inside project folder (`clinic/venv`)|self-contained, portable|duplicates Python, more disk space|
+|Centralized venv|outside project folder (`anaconda3/envs/...`)|saves space, clean project folder|not portable, have to manage names|
+
+---
+
+If you want, I can make a **diagram showing how system Python, virtual environments (both styles), and project scripts interact**, so it becomes crystal clear visually.
+
 ## 2. What is a **Python interpreter (本质)**
 
 The interpreter is:
