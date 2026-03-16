@@ -48,6 +48,10 @@ Now your terminal shows something like:
 
 Meaning the environment is active.
 
+### Using conda
+
+ [[Workflow of Creating and Using a Conda environment]]
+
 ---
 
 # 3️⃣ Install required packages
