@@ -222,6 +222,138 @@ Both do the **same thing**: make your shell find the correct `python` and `pip`.
 
 If you want, I can make a **diagram showing how system Python, virtual environments (both styles), and project scripts interact**, so it becomes crystal clear visually.
 
+# What `source venv/bin/activate` does
+
+When you run:
+
+source venv/bin/activate
+
+the shell executes the script:
+
+venv/bin/activate
+
+This script mainly:
+
+1. **modifies `PATH`**
+    
+2. sets a variable called `VIRTUAL_ENV`
+    
+3. changes the shell prompt
+    
+
+Example change:
+
+Before activation:
+
+PATH  
+/usr/local/bin:/usr/bin:/bin
+
+After activation:
+
+PATH  
+project/venv/bin:/usr/local/bin:/usr/bin:/bin
+
+So when you type:
+
+python
+
+the shell finds:
+
+project/venv/bin/python
+
+instead of:
+
+/usr/bin/python
+
+So yes — **the core mechanism is modifying `PATH`.**
+
+---
+
+# 2️⃣ What `conda activate clinic_env` does
+
+`conda` environments are managed by Anaconda or Miniconda.
+
+When you run:
+
+conda activate clinic_env
+
+Conda modifies several environment variables:
+
+Main ones:
+
+PATH  
+CONDA_PREFIX  
+CONDA_DEFAULT_ENV
+
+Example:
+
+Before:
+
+PATH  
+/usr/local/bin:/usr/bin:/bin
+
+After:
+
+PATH  
+/anaconda3/envs/clinic_env/bin:/usr/local/bin:/usr/bin:/bin
+
+So:
+
+python
+
+now runs:
+
+/anaconda3/envs/clinic_env/bin/python
+
+Same idea as `venv`.
+
+---
+
+# 3️⃣ Why `conda` activation works without `source`
+
+`conda activate` works because your shell was **configured during installation**.
+
+When you install Conda and run:
+
+conda init
+
+it modifies your shell startup file:
+
+~/.bashrc  
+~/.zshrc
+
+It adds code that enables the command:
+
+conda activate
+
+Internally this code still **changes `PATH`**.
+
+---
+
+# 4️⃣ How to switch into a Conda environment
+
+First list environments:
+
+conda env list
+
+Example:
+
+# conda environments:  
+base  
+clinic_env  
+ml_env
+
+Activate one:
+
+conda activate clinic_env
+
+Deactivate:
+
+conda deactivate
+
+
+
+
 ## 2. What is a **Python interpreter (本质)**
 
 The interpreter is:
