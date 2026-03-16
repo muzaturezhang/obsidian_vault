@@ -81,6 +81,28 @@ Create nested directories:
 
 mkdir -p data/raw
 
+
+### Create multiple nested folders (very useful)
+
+Use `-p`.
+
+mkdir -p blogs/drafts
+
+Result:
+
+blogs  
+   drafts
+
+You can even do:
+
+mkdir -p research/blogs/drafts
+
+Result:
+
+research  
+   blogs  
+      drafts
+      
 ---
 
 ### `touch`
