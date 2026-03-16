@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Tools/OS Shortcuts.md",
+                "file": "Research/Python Interpreter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OS Shortcuts"
+              "title": "Python Interpreter"
             }
           }
         ],
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Tools/OS Shortcuts.md",
+                "file": "Research/Python Interpreter.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OS Shortcuts"
+              "title": "Outline of Python Interpreter"
             }
           },
           {
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 623.5
+    "width": 416.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,8 +197,8 @@
   },
   "active": "af39b551d401fb56",
   "lastOpenFiles": [
-    "Research/Python Interpreter.md",
     "Research/Tools/OS Shortcuts.md",
+    "Research/Python Interpreter.md",
     "Research/The Symbols.md",
     "Research/Tools/Common Bash Commands.md",
     "Notes/Templates/Markdown.md",
