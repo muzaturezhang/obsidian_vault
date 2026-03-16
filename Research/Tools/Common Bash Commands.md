@@ -340,10 +340,9 @@ Print text.
 
 Example:
 
-```bash
+```
 echo "Hello"
 ```
-
 
 Also used to write files:
 
