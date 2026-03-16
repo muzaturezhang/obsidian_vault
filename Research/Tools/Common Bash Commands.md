@@ -405,11 +405,11 @@ Most CLI tools use **short options** for convenience.
 
 Example pattern:
 
-|Short|Full|
-|---|---|
-|`-n`|`--name`|
-|`-h`|`--help`|
-|`-v`|`--version`|
+| Short | Full        |
+| ----- | ----------- |
+| `-n`  | `--name`    |
+| `-h`  | `--help`    |
+| `-v`  | `--version` |
 
 ---
 
