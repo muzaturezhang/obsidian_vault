@@ -77,10 +77,6 @@ mkdir my_project
 ```
 
 
-Create nested directories:
-
-mkdir -p data/raw
-
 
 ### Create multiple nested folders (very useful)
 
