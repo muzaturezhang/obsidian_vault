@@ -6,7 +6,9 @@ Date: 2026-03-16
 
 First create a new environment with a specific Python version.
 
+```bash
 conda create -n myenv python=3.10
+```
 
 Explanation:
 
@@ -26,7 +28,9 @@ myenv
 
 # 2️⃣ Activate the environment
 
+```bash
 conda activate myenv
+```
 
 Your terminal will change to something like:
 
@@ -42,7 +46,9 @@ Prefer installing with **conda first**, especially for scientific libraries.
 
 Example:
 
+```bash
 conda install numpy pandas matplotlib
+```
 
 Conda installs:
 

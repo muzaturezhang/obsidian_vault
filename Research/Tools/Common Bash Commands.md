@@ -399,6 +399,20 @@ git commit -m "initial commit"
 
 ---
 
+# Options
+
+Most CLI tools use **short options** for convenience.
+
+Example pattern:
+
+|Short|Full|
+|---|---|
+|`-n`|`--name`|
+|`-h`|`--help`|
+|`-v`|`--version`|
+
+---
+
 ✅ **Most important commands to memorize first**
 
 pwd  
