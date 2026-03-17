@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Common Issues/How to Display Images Running in Terminal.md",
+                "file": "Research/To Be Answered and Learned.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to Display Images Running in Terminal"
+              "title": "To Be Answered and Learned"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Common Issues/How to Display Images Running in Terminal.md",
+                "file": "Research/To Be Answered and Learned.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of How to Display Images Running in Terminal"
+              "title": "Outline of To Be Answered and Learned"
             }
           },
           {
@@ -212,8 +212,9 @@
   },
   "active": "9e1da9784e512a6f",
   "lastOpenFiles": [
-    "Research/Standard Workflow/Standard Workflow of Reproducing a Paper.md",
     "Research/Common Issues/How to Display Images Running in Terminal.md",
+    "Research/To Be Answered and Learned.md",
+    "Research/Standard Workflow/Standard Workflow of Reproducing a Paper.md",
     "Research/Common Issues",
     "Research/To Be Done/Finish 3 small projects.md",
     "Research/Standard Workflow/Workflow of Creating and Using a Conda environment.md",
@@ -248,7 +249,6 @@
     "100 Computer Science/120 Research/122 Paper Note/A Systematic Review of Graph Neural Network in Healthcare-Based Applications.. Recent Advances, Trends, and Future Directions.md",
     "100 Computer Science/120 Research/123 Research Pipeline/001 Environment Setup Pipeline.md",
     "100 Computer Science/120 Research/122 Paper Note/Medical GraphRAG..Towards Safe Medical Large Language Model via GraphRAG.md",
-    "100 Computer Science/120 Research/122 Paper Note/From Local to Global..A GraphRAG Approach to Query-Focused Summarization.md",
     "Untitled.canvas",
     "100 Computer Science/120 Research/121 GraphRAG/将KG-RAG融入MAC的思路图.canvas",
     "100 Computer Science/Untitled.canvas",
