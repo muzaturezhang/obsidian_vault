@@ -367,6 +367,15 @@ Also used to write files:
 echo "test" > file.txt
 
 ---
+# 7.  Others 
+
+```shell
+curl -O https://raw.githubusercontent.com/mrdbourke/pytorch-deep-learning/main/helper_functions.py
+```
+
+Download this file from the internet into my current folder (using url)
+
+---
 
 # 7. Useful Keyboard Shortcuts
 

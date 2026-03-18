@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Basic Questions/__name__.md",
+                "file": "Research/Coding and Structuring ML Projects/dataset.py.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "__name__"
+              "title": "dataset.py"
             }
           },
           {
@@ -56,16 +56,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Common Issues/The Scope of Modules, Variables and Class.md",
+                "file": "Research/Tools/Common Bash Commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Scope of Modules, Variables and Class"
+              "title": "Common Bash Commands"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Common Issues/The Scope of Modules, Variables and Class.md",
+                "file": "Research/Coding and Structuring ML Projects/dataset.py.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Scope of Modules, Variables and Class"
+              "title": "Backlinks for dataset.py"
             }
           },
           {
@@ -157,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Common Issues/The Scope of Modules, Variables and Class.md",
+                "file": "Research/Coding and Structuring ML Projects/dataset.py.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Scope of Modules, Variables and Class"
+              "title": "Outgoing links from dataset.py"
             }
           },
           {
@@ -186,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Common Issues/The Scope of Modules, Variables and Class.md",
+                "file": "Research/Coding and Structuring ML Projects/dataset.py.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Scope of Modules, Variables and Class"
+              "title": "Outline of dataset.py"
             }
           },
           {
@@ -225,18 +224,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5be60cccdc53abf9",
+  "active": "4170f70196f0fc23",
   "lastOpenFiles": [
-    "Research/To Be Answered and Learned.md",
-    "Research/Common Issues/The Scope of Modules, Variables and Class.md",
-    "Research/Basic Questions/__name__.md",
-    "Research/Basic Questions/Still questions about __name__.md",
-    "Research/Coding and Structuring ML Projects/Modules Sharing Information.md",
+    "Research/Coding and Structuring ML Projects/3 Layers of a Project.md",
     "Research/Coding and Structuring ML Projects/dataset.py.md",
+    "Research/Coding and Structuring ML Projects/Modules Sharing Information.md",
+    "Research/Common Issues/The Scope of Modules, Variables and Class.md",
+    "Research/Common Issues/Statement and Definition.md",
     "Research/Common Issues/How to Display Images Running in Terminal.md",
+    "Research/Common Issues/plt.show().md",
+    "Research/Basic Questions/Still questions about __name__.md",
+    "Research/Basic Questions/__name__.md",
+    "Research/Tools/Common Bash Commands.md",
+    "Research/Tools/Commands of conda.md",
+    "Research/Python Environment VS Working Directory.md",
+    "Research/Python Environment.md",
+    "Research/Tools/OS Shortcuts.md",
+    "Research/To Be Answered and Learned.md",
     "Research/Unix filesystem structure.md",
     "Research/The Symbols.md",
-    "Research/Tools/Commands of conda.md",
     "Research/To Be Done/Finish 3 small projects.md",
     "Research/Standard Workflow/Workflow of Creating and Using a Conda environment.md",
     "Research/Standard Workflow/Standard Workflow of Reproducing a Paper.md",
@@ -244,14 +250,8 @@
     "Blog Drafts/Untitled.md",
     "Research/Drafts",
     "Research/Basic Questions",
-    "Research/Common Issues/Statement and Definition.md",
-    "Research/Common Issues/plt.show().md",
     "Research/Untitled.md",
     "Research/Coding and Structuring ML Projects",
-    "Research/Tools/Common Bash Commands.md",
-    "Research/Tools/OS Shortcuts.md",
-    "Research/Python Environment.md",
-    "Research/Python Environment VS Working Directory.md",
     "Research/Common Issues",
     "Research/Standard Workflow",
     "灵感1.md",
@@ -262,7 +262,6 @@
     "Untitled.base",
     "Untitled.md",
     "Research/To Be Done",
-    "Notes/Templates/Markdown.md",
     "Notes/Templates",
     "Untitled.canvas",
     "100 Computer Science/120 Research/121 GraphRAG/将KG-RAG融入MAC的思路图.canvas",

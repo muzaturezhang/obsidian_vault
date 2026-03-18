@@ -1,4 +1,6 @@
 {
   "baseFontSizeAction": false,
-  "cssTheme": "AnuPpuccin"
+  "cssTheme": "Obsidian gruvbox",
+  "accentColor": "#54a072",
+  "theme": "system"
 }
