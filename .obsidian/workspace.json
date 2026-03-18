@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Generating Ideas/The Classificaion of Research Papers.md",
+                "file": "Research/Yanru's Project/Idea.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "The Classificaion of Research Papers"
+              "title": "Idea"
             }
           },
           {
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Generating Ideas/The Classificaion of Research Papers.md",
+                "file": "Research/Yanru's Project/Idea.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Classificaion of Research Papers"
+              "title": "Backlinks for Idea"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Generating Ideas/The Classificaion of Research Papers.md",
+                "file": "Research/Yanru's Project/Idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Classificaion of Research Papers"
+              "title": "Outgoing links from Idea"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Generating Ideas/The Classificaion of Research Papers.md",
+                "file": "Research/Yanru's Project/Idea.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Classificaion of Research Papers"
+              "title": "Outline of Idea"
             }
           },
           {
@@ -226,8 +226,10 @@
   },
   "active": "4c56d970098446a8",
   "lastOpenFiles": [
-    "Research/Coding and Structuring ML Projects/Modules Sharing Information.md",
     "Research/Generating Ideas/The Classificaion of Research Papers.md",
+    "Research/Yanru's Project/Idea.md",
+    "Research/Yanru's Project",
+    "Research/Coding and Structuring ML Projects/Modules Sharing Information.md",
     "Research/Generating Ideas",
     "Research/Common Issues/The Model in train.py and predict.py Mismatch.md",
     "Research/Basic Questions/Still questions about __name__.md",
@@ -257,12 +259,10 @@
     "Research/Coding and Structuring ML Projects",
     "Research/Common Issues",
     "Research/Standard Workflow",
-    "灵感1.md",
     "截屏2025-09-07 03.08.42.png",
     "Untitled 1.base",
     "Untitled 2.base",
     "Untitled.base",
-    "Research/To Be Done",
     "Untitled.canvas",
     "100 Computer Science/120 Research/121 GraphRAG/将KG-RAG融入MAC的思路图.canvas",
     "100 Computer Science/Untitled.canvas",
