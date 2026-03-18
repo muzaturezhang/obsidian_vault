@@ -8,3 +8,9 @@ what is `__init__` mean
 
 wha's the scope of `from xxx import xxx`
 (eg. If I could only write from model import xxx only if it's in the same directory with me (But the torch package in the env aren't in the same directory) )
+
+So the global variables could also be imported to other files like a module? And what is global variable
+
+Why the imported class is dark except I use it in the program
+
+What shortcut should I enter if I want to see the underlying program of a library/module?
