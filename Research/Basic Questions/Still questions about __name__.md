@@ -157,5 +157,13 @@ if __name__ == "__main__":
 ```
 
 ---
+## Which kind of code should be put under __main__
+
+Top-level code → definitions (always loaded)
+↓
+__main__ block → execution (only when run directly)
+
+
+---
 
 If you want, I can next show you a **clean PyTorch project template (train/test split + dataset + model + config)** — that will eliminate these issues permanently and match real research workflows.
