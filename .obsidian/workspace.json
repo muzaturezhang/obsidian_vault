@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Common Issues/The Model in train.py and predict.py Mismatch.md",
+                "file": "Research/Coding and Structuring ML Projects/Modules Sharing Information.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "The Model in train.py and predict.py Mismatch"
+              "title": "Modules Sharing Information"
             }
           },
           {
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Common Issues/The Model in train.py and predict.py Mismatch.md",
+                "file": "Research/Coding and Structuring ML Projects/Modules Sharing Information.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Model in train.py and predict.py Mismatch"
+              "title": "Backlinks for Modules Sharing Information"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Common Issues/The Model in train.py and predict.py Mismatch.md",
+                "file": "Research/Coding and Structuring ML Projects/Modules Sharing Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Model in train.py and predict.py Mismatch"
+              "title": "Outgoing links from Modules Sharing Information"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Common Issues/The Model in train.py and predict.py Mismatch.md",
+                "file": "Research/Coding and Structuring ML Projects/Modules Sharing Information.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Model in train.py and predict.py Mismatch"
+              "title": "Outline of Modules Sharing Information"
             }
           },
           {
@@ -226,8 +226,8 @@
   },
   "active": "4c56d970098446a8",
   "lastOpenFiles": [
-    "Research/Basic Questions/Still questions about __name__.md",
     "Research/Common Issues/The Model in train.py and predict.py Mismatch.md",
+    "Research/Basic Questions/Still questions about __name__.md",
     "Research/Basic Questions/__name__.md",
     "Research/To Be Answered and Learned.md",
     "Research/Unix filesystem structure.md",

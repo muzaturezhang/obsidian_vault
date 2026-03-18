@@ -173,3 +173,246 @@ It will align perfectly with:
 ---
 
 If you want, next step I can help you refactor your whole project into a **research-grade structure (train.py / dataset.py / model.py / config.py)** — that’s a _huge upgrade_ for your current level.
+
+
+---
+This is a **really important mental model issue**, and I’m glad you asked — because your intuition about “redefining wastes memory” is **common but slightly off in Python/ML context**.
+
+Let’s fix it cleanly.
+
+---
+
+# ✅ 1. Should you redefine `loss_fn`, `accuracy_fn`, `test_dataloader`?
+
+## ✔️ YES — you should define them again (or import from proper modules)
+
+But NOT from `train.py`.
+
+---
+
+# 🧠 Why NOT reuse from `train.py`?
+
+Because:
+
+- `train.py` = **execution script**
+    
+- It may:
+    
+    - run training loops
+        
+    - create side effects
+        
+    - load data unintentionally
+        
+
+👉 Importing it is **bad design**
+
+---
+
+# ✅ Correct approach
+
+## 🔹 Option A (recommended)
+
+Put reusable things in proper places:
+
+|Item|Where it should live|
+|---|---|
+|`accuracy_fn`|`utils.py`|
+|`test_dataloader`|`dataset.py`|
+|`loss_fn`|define locally (simple enough)|
+
+---
+
+## Example
+
+### `predict.py`
+
+```python
+from utils import accuracy_fn
+from dataset import FashionMNISTDataset
+
+dataset = FashionMNISTDataset()
+_, test_dataloader = dataset.get_dataloaders()
+
+loss_fn = nn.CrossEntropyLoss()
+```
+
+---
+
+# ❗ 2. Will redefining waste memory?
+
+## 👉 Short answer: **NO (negligible)**
+
+---
+
+## 🧠 Why your intuition is slightly wrong
+
+You’re thinking like:
+
+> “Every time I define something, I duplicate memory”
+
+But in reality:
+
+---
+
+## 🔹 Case 1: Functions (like `accuracy_fn`)
+
+```python
+def accuracy_fn(...):
+```
+
+👉 Memory cost:
+
+- tiny (just function object)
+    
+- negligible compared to model/data
+    
+
+---
+
+## 🔹 Case 2: Loss function
+
+```python
+loss_fn = nn.CrossEntropyLoss()
+```
+
+👉 Memory cost:
+
+- almost zero
+    
+- no big tensors stored
+    
+
+---
+
+## 🔹 Case 3: DataLoader
+
+```python
+test_dataloader = ...
+```
+
+👉 Important:
+
+- It **does NOT load full dataset into memory**
+    
+- It loads **batches on demand**
+    
+
+So:
+
+> ❌ Not duplicating dataset in RAM  
+> ✅ Just creating an iterator
+
+---
+
+## 🔥 The REAL memory consumers
+
+These are what actually matter:
+
+|Component|Memory usage|
+|---|---|
+|model weights|HIGH|
+|tensors (batches)|HIGH|
+|gradients|HIGH|
+
+---
+
+## 💡 So redefining:
+
+```text
+loss_fn / accuracy_fn / dataloader
+```
+
+➡️ is **basically free**
+
+---
+
+# 🧠 Correct Mental Model (very important)
+
+Instead of thinking:
+
+> ❌ “Redefinition = memory duplication”
+
+Think:
+
+> ✅ “Variables are just references to objects”
+
+---
+
+## Example
+
+```python
+a = nn.CrossEntropyLoss()
+b = nn.CrossEntropyLoss()
+```
+
+👉 Yes, two objects — but:
+
+- each is tiny
+    
+- cost is negligible
+    
+
+---
+
+# 🔥 Key architectural principle
+
+> 👉 Each script should be **self-sufficient**
+
+---
+
+## `train.py`
+
+- defines training setup
+    
+
+## `predict.py`
+
+- defines inference setup
+    
+
+👉 They **should NOT depend on each other**
+
+---
+
+# 🚀 Best practice structure (for you)
+
+```text
+model.py
+dataset.py
+utils.py        ← accuracy_fn
+train.py        ← training only
+predict.py      ← inference only
+```
+
+---
+
+# 💡 Pro tip (important upgrade)
+
+If you hate redefining things, you can centralize config:
+
+### `config.py`
+
+```python
+BATCH_SIZE = 32
+LR = 0.1
+```
+
+---
+
+# 🧠 Final takeaway (this is the key)
+
+> ❌ Redefining small objects does NOT waste meaningful memory  
+> ✅ Clean separation of scripts is FAR more important
+
+---
+
+# 🎯 One-line intuition
+
+> **Don’t optimize memory for tiny objects — optimize code structure.**
+
+---
+
+If you want next step, I can:  
+👉 show you how to build a **shared evaluation function (`evaluate(model, dataloader, ...)`)**  
+👉 so both `train.py` and `predict.py` reuse logic cleanly without duplication (this is what real repos do)
