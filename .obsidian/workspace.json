@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Coding and Structuring ML Projects/dataset.py.md",
+                "file": "Research/To Be Answered and Learned.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "dataset.py"
+              "title": "To Be Answered and Learned"
             }
           },
           {
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Coding and Structuring ML Projects/dataset.py.md",
+                "file": "Research/To Be Answered and Learned.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for dataset.py"
+              "title": "Backlinks for To Be Answered and Learned"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Coding and Structuring ML Projects/dataset.py.md",
+                "file": "Research/To Be Answered and Learned.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from dataset.py"
+              "title": "Outgoing links from To Be Answered and Learned"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Coding and Structuring ML Projects/dataset.py.md",
+                "file": "Research/To Be Answered and Learned.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of dataset.py"
+              "title": "Outline of To Be Answered and Learned"
             }
           },
           {
@@ -224,29 +224,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4170f70196f0fc23",
+  "active": "4c56d970098446a8",
   "lastOpenFiles": [
-    "Research/Coding and Structuring ML Projects/3 Layers of a Project.md",
-    "Research/Coding and Structuring ML Projects/dataset.py.md",
-    "Research/Coding and Structuring ML Projects/Modules Sharing Information.md",
-    "Research/Common Issues/The Scope of Modules, Variables and Class.md",
-    "Research/Common Issues/Statement and Definition.md",
-    "Research/Common Issues/How to Display Images Running in Terminal.md",
-    "Research/Common Issues/plt.show().md",
-    "Research/Basic Questions/Still questions about __name__.md",
-    "Research/Basic Questions/__name__.md",
-    "Research/Tools/Common Bash Commands.md",
-    "Research/Tools/Commands of conda.md",
+    "Research/Unix filesystem structure.md",
+    "Research/To Be Answered and Learned.md",
+    "Research/The Symbols.md",
     "Research/Python Environment VS Working Directory.md",
     "Research/Python Environment.md",
-    "Research/Tools/OS Shortcuts.md",
-    "Research/To Be Answered and Learned.md",
-    "Research/Unix filesystem structure.md",
-    "Research/The Symbols.md",
+    "Research/Tools/Common Bash Commands.md",
     "Research/To Be Done/Finish 3 small projects.md",
     "Research/Standard Workflow/Workflow of Creating and Using a Conda environment.md",
     "Research/Standard Workflow/Standard Workflow of Reproducing a Paper.md",
     "Research/Drafts/Ideas.md",
+    "Research/Common Issues/plt.show().md",
+    "Research/Common Issues/How to Display Images Running in Terminal.md",
+    "Research/Common Issues/The Scope of Modules, Variables and Class.md",
+    "Research/Common Issues/Statement and Definition.md",
+    "Research/Basic Questions/Still questions about __name__.md",
+    "Research/Coding and Structuring ML Projects/Modules Sharing Information.md",
+    "Research/Coding and Structuring ML Projects/dataset.py.md",
+    "Research/Coding and Structuring ML Projects/3 Layers of a Project.md",
+    "Research/Basic Questions/__name__.md",
+    "Research/Tools/Commands of conda.md",
+    "Research/Tools/OS Shortcuts.md",
     "Blog Drafts/Untitled.md",
     "Research/Drafts",
     "Research/Basic Questions",
