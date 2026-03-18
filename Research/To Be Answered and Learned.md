@@ -19,4 +19,4 @@ Learn and practice how to identify the scope /domain of a variable/class... (for
 
 What's the import in essense
 
-# Consider how to organize a project from scratch
+# Consider how to organize a project from scratch(the structure)
