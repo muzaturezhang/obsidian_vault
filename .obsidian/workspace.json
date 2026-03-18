@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Yanru's Project/Idea.md",
+                "file": "Research/Yanru's Project/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Idea"
+              "title": "Untitled"
             }
           },
           {
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Yanru's Project/Idea.md",
+                "file": "Research/Yanru's Project/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Idea"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Yanru's Project/Idea.md",
+                "file": "Research/Yanru's Project/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Idea"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Yanru's Project/Idea.md",
+                "file": "Research/Yanru's Project/Untitled.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Idea"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -226,8 +226,9 @@
   },
   "active": "4c56d970098446a8",
   "lastOpenFiles": [
-    "Research/Generating Ideas/The Classificaion of Research Papers.md",
     "Research/Yanru's Project/Idea.md",
+    "Research/Yanru's Project/Untitled.md",
+    "Research/Generating Ideas/The Classificaion of Research Papers.md",
     "Research/Yanru's Project",
     "Research/Coding and Structuring ML Projects/Modules Sharing Information.md",
     "Research/Generating Ideas",
@@ -255,7 +256,6 @@
     "Blog Drafts/Untitled.md",
     "Research/Drafts",
     "Research/Basic Questions",
-    "Research/Untitled.md",
     "Research/Coding and Structuring ML Projects",
     "Research/Common Issues",
     "Research/Standard Workflow",
