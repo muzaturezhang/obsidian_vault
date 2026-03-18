@@ -37,4 +37,5 @@ do this process in each file like train.py and predict.py...?
 
 ---
 	I'd be better write the`if __name__=="__main__"` in front of every file?
-	
+
+What's the differences between modules, class, attributes, variables and their relationship, inclusion

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Generating Ideas/Small Paper From Big Paper.md",
+                "file": "Research/To Be Answered and Learned.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Small Paper From Big Paper"
+              "title": "To Be Answered and Learned"
             }
           },
           {
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Generating Ideas/Small Paper From Big Paper.md",
+                "file": "Research/To Be Answered and Learned.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Small Paper From Big Paper"
+              "title": "Backlinks for To Be Answered and Learned"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Generating Ideas/Small Paper From Big Paper.md",
+                "file": "Research/To Be Answered and Learned.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Small Paper From Big Paper"
+              "title": "Outgoing links from To Be Answered and Learned"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Generating Ideas/Small Paper From Big Paper.md",
+                "file": "Research/To Be Answered and Learned.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Small Paper From Big Paper"
+              "title": "Outline of To Be Answered and Learned"
             }
           },
           {
@@ -226,8 +226,8 @@
   },
   "active": "4c56d970098446a8",
   "lastOpenFiles": [
-    "Research/Yanru's Project/Idea.md",
     "Research/Generating Ideas/Small Paper From Big Paper.md",
+    "Research/Yanru's Project/Idea.md",
     "Research/Generating Ideas/The Classificaion of Research Papers.md",
     "Research/Yanru's Project",
     "Research/Coding and Structuring ML Projects/Modules Sharing Information.md",
