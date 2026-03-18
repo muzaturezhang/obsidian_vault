@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Basic Questions/Still questions about __name__.md",
+                "file": "Research/Common Issues/The Model in train.py and predict.py Mismatch.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Still questions about __name__"
+              "title": "The Model in train.py and predict.py Mismatch"
             }
           },
           {
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Basic Questions/Still questions about __name__.md",
+                "file": "Research/Common Issues/The Model in train.py and predict.py Mismatch.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Still questions about __name__"
+              "title": "Backlinks for The Model in train.py and predict.py Mismatch"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Basic Questions/Still questions about __name__.md",
+                "file": "Research/Common Issues/The Model in train.py and predict.py Mismatch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Still questions about __name__"
+              "title": "Outgoing links from The Model in train.py and predict.py Mismatch"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Basic Questions/Still questions about __name__.md",
+                "file": "Research/Common Issues/The Model in train.py and predict.py Mismatch.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Still questions about __name__"
+              "title": "Outline of The Model in train.py and predict.py Mismatch"
             }
           },
           {
@@ -226,6 +226,8 @@
   },
   "active": "4c56d970098446a8",
   "lastOpenFiles": [
+    "Research/Basic Questions/Still questions about __name__.md",
+    "Research/Common Issues/The Model in train.py and predict.py Mismatch.md",
     "Research/Basic Questions/__name__.md",
     "Research/To Be Answered and Learned.md",
     "Research/Unix filesystem structure.md",
@@ -241,7 +243,6 @@
     "Research/Common Issues/How to Display Images Running in Terminal.md",
     "Research/Common Issues/The Scope of Modules, Variables and Class.md",
     "Research/Common Issues/Statement and Definition.md",
-    "Research/Basic Questions/Still questions about __name__.md",
     "Research/Coding and Structuring ML Projects/Modules Sharing Information.md",
     "Research/Coding and Structuring ML Projects/dataset.py.md",
     "Research/Coding and Structuring ML Projects/3 Layers of a Project.md",
@@ -260,7 +261,6 @@
     "Untitled 1.base",
     "Untitled 2.base",
     "Untitled.base",
-    "Untitled.md",
     "Research/To Be Done",
     "Notes/Templates",
     "Untitled.canvas",
