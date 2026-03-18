@@ -14,3 +14,7 @@ So the global variables could also be imported to other files like a module? And
 Why the imported class is dark except I use it in the program
 
 What shortcut should I enter if I want to see the underlying program of a library/module?
+
+Learn and practice how to identify the scope /domain of a variable/class... (for better importing)
+
+What's the import in essense
