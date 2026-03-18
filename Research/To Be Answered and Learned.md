@@ -18,3 +18,5 @@ What shortcut should I enter if I want to see the underlying program of a librar
 Learn and practice how to identify the scope /domain of a variable/class... (for better importing)
 
 What's the import in essense
+
+# Consider how to organize a project from scratch
