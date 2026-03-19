@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Others/Useful Shortcuts.md",
+                "file": "Research/Memorizing Formula/Matrix Multiplication.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Useful Shortcuts"
+              "title": "Matrix Multiplication"
             }
           },
           {
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Others/Useful Shortcuts.md",
+                "file": "Research/Memorizing Formula/Matrix Multiplication.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Useful Shortcuts"
+              "title": "Backlinks for Matrix Multiplication"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Others/Useful Shortcuts.md",
+                "file": "Research/Memorizing Formula/Matrix Multiplication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Useful Shortcuts"
+              "title": "Outgoing links from Matrix Multiplication"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Others/Useful Shortcuts.md",
+                "file": "Research/Memorizing Formula/Matrix Multiplication.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Useful Shortcuts"
+              "title": "Outline of Matrix Multiplication"
             }
           },
           {
@@ -226,8 +226,10 @@
   },
   "active": "4c56d970098446a8",
   "lastOpenFiles": [
-    "Research/To Be Answered and Learned.md",
     "Research/Others/Useful Shortcuts.md",
+    "Research/Memorizing Formula/Matrix Multiplication.md",
+    "Research/Memorizing Formula",
+    "Research/To Be Answered and Learned.md",
     "Research/Others",
     "Research/Standard Workflow/Workflow of Creating and Using a Conda environment.md",
     "Research/Searching Prompts/搜索问题.md",
@@ -256,12 +258,10 @@
     "Research/Common Issues/The Scope of Modules, Variables and Class.md",
     "Research/Common Issues/Statement and Definition.md",
     "Research/Coding and Structuring ML Projects/dataset.py.md",
-    "Research/Coding and Structuring ML Projects/3 Layers of a Project.md",
     "Research/Drafts",
     "Research/Basic Questions",
     "Research/Coding and Structuring ML Projects",
     "Research/Common Issues",
-    "Research/Standard Workflow",
     "截屏2025-09-07 03.08.42.png",
     "Untitled.canvas",
     "100 Computer Science/120 Research/121 GraphRAG/将KG-RAG融入MAC的思路图.canvas",
