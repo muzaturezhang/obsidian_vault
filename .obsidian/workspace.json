@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Searching Prompts/搜索问题.md",
+                "file": "Research/Standard Workflow/Workflow of Creating and Using a Conda environment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "搜索问题"
+              "title": "Workflow of Creating and Using a Conda environment"
             }
           },
           {
@@ -64,8 +64,7 @@
               "title": "Common Bash Commands"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Searching Prompts/搜索问题.md",
+                "file": "Research/To Be Answered and Learned.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 搜索问题"
+              "title": "Backlinks for To Be Answered and Learned"
             }
           },
           {
@@ -157,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Searching Prompts/搜索问题.md",
+                "file": "Research/To Be Answered and Learned.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 搜索问题"
+              "title": "Outgoing links from To Be Answered and Learned"
             }
           },
           {
@@ -186,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Searching Prompts/搜索问题.md",
+                "file": "Research/To Be Answered and Learned.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 搜索问题"
+              "title": "Outline of To Be Answered and Learned"
             }
           },
           {
@@ -225,10 +224,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cf239d58ce21eb52",
+  "active": "4c56d970098446a8",
   "lastOpenFiles": [
-    "Research/To Be Answered and Learned.md",
+    "Research/Standard Workflow/Workflow of Creating and Using a Conda environment.md",
     "Research/Searching Prompts/搜索问题.md",
+    "Research/To Be Answered and Learned.md",
     "Research/Searching Prompts",
     "Research/Practical Exprerences/How to Save the Model.md",
     "Research/Coding and Structuring ML Projects/Modules Sharing Information.md",
@@ -247,7 +247,6 @@
     "Research/Basic Questions/Still questions about __name__.md",
     "Research/Basic Questions/__name__.md",
     "Research/To Be Done/Finish 3 small projects.md",
-    "Research/Standard Workflow/Workflow of Creating and Using a Conda environment.md",
     "Research/Standard Workflow/Standard Workflow of Reproducing a Paper.md",
     "Research/Drafts/Ideas.md",
     "Research/Common Issues/plt.show().md",

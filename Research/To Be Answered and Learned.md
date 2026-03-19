@@ -65,3 +65,4 @@ AttributeError: 'FashionMNISTModelV1' object has no attribute 'pth'
 ways to prevent overfitting in machine learning
 
 ---
+What's the scope of the torch.random
