@@ -39,3 +39,8 @@ do this process in each file like train.py and predict.py...?
 	I'd be better write the`if __name__=="__main__"` in front of every file?
 
 What's the differences between modules, class, attributes, variables and their relationship, inclusion
+
+---
+If you want next step, I can:  
+👉 show you how to **auto-save best model + logs + metrics (real training pipeline)**  
+👉 or set up **VSCode like a pro ML environment (lint + format + debug together)**
