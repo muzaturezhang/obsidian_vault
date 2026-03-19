@@ -44,3 +44,19 @@ What's the differences between modules, class, attributes, variables and their r
 If you want next step, I can:  
 👉 show you how to **auto-save best model + logs + metrics (real training pipeline)**  
 👉 or set up **VSCode like a pro ML environment (lint + format + debug together)**
+
+---
+How to read the error message (like line 1965) exactly
+```shell
+Traceback (most recent call last):
+
+  File "/Users/zhangwenhan1031/Downloads/ml-practice/cv_tutorial/evaluation.py", line 15, in <module>
+
+    model_1.load_state_dict(torch.load(model_1.pth))
+
+  File "/opt/anaconda3/envs/cv_tutorial/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1965, in __getattr__
+
+    raise AttributeError(
+
+AttributeError: 'FashionMNISTModelV1' object has no attribute 'pth'
+```
