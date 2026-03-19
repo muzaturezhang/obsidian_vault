@@ -60,3 +60,8 @@ Traceback (most recent call last):
 
 AttributeError: 'FashionMNISTModelV1' object has no attribute 'pth'
 ```
+
+---
+ways to prevent overfitting in machine learning
+
+---
