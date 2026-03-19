@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/To Be Answered and Learned.md",
+                "file": "Research/Practical Exprerences/How to Save the Model.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "To Be Answered and Learned"
+              "title": "How to Save the Model"
             }
           },
           {
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/To Be Answered and Learned.md",
+                "file": "Research/Practical Exprerences/How to Save the Model.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for To Be Answered and Learned"
+              "title": "Backlinks for How to Save the Model"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/To Be Answered and Learned.md",
+                "file": "Research/Practical Exprerences/How to Save the Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from To Be Answered and Learned"
+              "title": "Outgoing links from How to Save the Model"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/To Be Answered and Learned.md",
+                "file": "Research/Practical Exprerences/How to Save the Model.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of To Be Answered and Learned"
+              "title": "Outline of How to Save the Model"
             }
           },
           {
@@ -226,21 +226,23 @@
   },
   "active": "4c56d970098446a8",
   "lastOpenFiles": [
+    "Research/To Be Answered and Learned.md",
+    "Research/Practical Exprerences/How to Save the Model.md",
+    "Research/Practical Exprerences",
+    "Research/Tools/Common Bash Commands.md",
+    "Research/Coding and Structuring ML Projects/Modules Sharing Information.md",
     "Research/Generating Ideas/Small Paper From Big Paper.md",
     "Research/Yanru's Project/Idea.md",
     "Research/Generating Ideas/The Classificaion of Research Papers.md",
     "Research/Yanru's Project",
-    "Research/Coding and Structuring ML Projects/Modules Sharing Information.md",
     "Research/Generating Ideas",
     "Research/Common Issues/The Model in train.py and predict.py Mismatch.md",
     "Research/Basic Questions/Still questions about __name__.md",
     "Research/Basic Questions/__name__.md",
-    "Research/To Be Answered and Learned.md",
     "Research/Unix filesystem structure.md",
     "Research/The Symbols.md",
     "Research/Python Environment VS Working Directory.md",
     "Research/Python Environment.md",
-    "Research/Tools/Common Bash Commands.md",
     "Research/To Be Done/Finish 3 small projects.md",
     "Research/Standard Workflow/Workflow of Creating and Using a Conda environment.md",
     "Research/Standard Workflow/Standard Workflow of Reproducing a Paper.md",
@@ -253,7 +255,6 @@
     "Research/Coding and Structuring ML Projects/3 Layers of a Project.md",
     "Research/Tools/Commands of conda.md",
     "Research/Tools/OS Shortcuts.md",
-    "Blog Drafts/Untitled.md",
     "Research/Drafts",
     "Research/Basic Questions",
     "Research/Coding and Structuring ML Projects",
@@ -262,7 +263,6 @@
     "截屏2025-09-07 03.08.42.png",
     "Untitled 1.base",
     "Untitled 2.base",
-    "Untitled.base",
     "Untitled.canvas",
     "100 Computer Science/120 Research/121 GraphRAG/将KG-RAG融入MAC的思路图.canvas",
     "100 Computer Science/Untitled.canvas",
