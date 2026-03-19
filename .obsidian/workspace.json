@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Memorizing Formula/Matrix Multiplication.md",
+                "file": "Research/Research Spirits/Research Spirits.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Matrix Multiplication"
+              "title": "Research Spirits"
             }
           },
           {
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Memorizing Formula/Matrix Multiplication.md",
+                "file": "Research/Research Spirits/Research Spirits.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Matrix Multiplication"
+              "title": "Backlinks for Research Spirits"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/Memorizing Formula/Matrix Multiplication.md",
+                "file": "Research/Research Spirits/Research Spirits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Matrix Multiplication"
+              "title": "Outgoing links from Research Spirits"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Memorizing Formula/Matrix Multiplication.md",
+                "file": "Research/Research Spirits/Research Spirits.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Matrix Multiplication"
+              "title": "Outline of Research Spirits"
             }
           },
           {
@@ -226,8 +226,19 @@
   },
   "active": "4c56d970098446a8",
   "lastOpenFiles": [
-    "Research/Others/Useful Shortcuts.md",
+    "Research/Research Ideas/Privacy Vulnerability.md",
+    "Research/Research Spirits/Research Spirits.md",
+    "Research/Research Spirits",
+    "Research/Drafts/Ideas.md",
+    "Research/Research Ideas",
+    "Research/The Symbols.md",
+    "Research/Python Environment VS Working Directory.md",
+    "Research/Tools/Common Bash Commands.md",
+    "Research/Tools/Commands of conda.md",
+    "Research/Tools/OS Shortcuts.md",
+    "Research/Yanru's Project/Idea.md",
     "Research/Memorizing Formula/Matrix Multiplication.md",
+    "Research/Others/Useful Shortcuts.md",
     "Research/Memorizing Formula",
     "Research/To Be Answered and Learned.md",
     "Research/Others",
@@ -237,13 +248,9 @@
     "Research/Practical Exprerences/How to Save the Model.md",
     "Research/Coding and Structuring ML Projects/Modules Sharing Information.md",
     "Research/Unix filesystem structure.md",
-    "Research/The Symbols.md",
-    "Research/Python Environment VS Working Directory.md",
     "Research/Python Environment.md",
     "Research/Practical Exprerences",
-    "Research/Tools/Common Bash Commands.md",
     "Research/Generating Ideas/Small Paper From Big Paper.md",
-    "Research/Yanru's Project/Idea.md",
     "Research/Generating Ideas/The Classificaion of Research Papers.md",
     "Research/Yanru's Project",
     "Research/Generating Ideas",
@@ -252,16 +259,9 @@
     "Research/Basic Questions/__name__.md",
     "Research/To Be Done/Finish 3 small projects.md",
     "Research/Standard Workflow/Standard Workflow of Reproducing a Paper.md",
-    "Research/Drafts/Ideas.md",
     "Research/Common Issues/plt.show().md",
-    "Research/Common Issues/How to Display Images Running in Terminal.md",
-    "Research/Common Issues/The Scope of Modules, Variables and Class.md",
-    "Research/Common Issues/Statement and Definition.md",
-    "Research/Coding and Structuring ML Projects/dataset.py.md",
     "Research/Drafts",
     "Research/Basic Questions",
-    "Research/Coding and Structuring ML Projects",
-    "Research/Common Issues",
     "截屏2025-09-07 03.08.42.png",
     "Untitled.canvas",
     "100 Computer Science/120 Research/121 GraphRAG/将KG-RAG融入MAC的思路图.canvas",
