@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Math Foundation/Confidence Score.md",
+                "file": "Research/Research Ideas/how to design an experiment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Confidence Score"
+              "title": "how to design an experiment"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Math Foundation/Confidence Score.md",
+                "file": "Research/Research Ideas/how to design an experiment.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Confidence Score"
+              "title": "Outline of how to design an experiment"
             }
           },
           {
@@ -211,14 +211,15 @@
   },
   "active": "cf239d58ce21eb52",
   "lastOpenFiles": [
+    "Research/Research Ideas/Privacy Vulnerability.md",
+    "Research/Research Ideas/how to design an experiment.md",
+    "Research/Math Foundation/Confidence Score.md",
     "Research/Generating Ideas/Small Paper From Big Paper.md",
     "Research/Generating Ideas/The Classificaion of Research Papers.md",
     "Notes/Templates/Markdown.md",
     "Research/Standard Workflow/Workflow of Creating and Using a Conda environment.md",
-    "Research/Math Foundation/Confidence Score.md",
     "Research/Research Spirits/Research Spirits.md",
     "Research/Math Foundation",
-    "Research/Research Ideas/Privacy Vulnerability.md",
     "Research/Research Spirits",
     "Research/Drafts/Ideas.md",
     "Research/Research Ideas",
@@ -245,7 +246,6 @@
     "Research/Common Issues/The Model in train.py and predict.py Mismatch.md",
     "Research/Basic Questions/Still questions about __name__.md",
     "Research/Basic Questions/__name__.md",
-    "Research/To Be Done/Finish 3 small projects.md",
     "Research/Drafts",
     "截屏2025-09-07 03.08.42.png",
     "Untitled.canvas",
