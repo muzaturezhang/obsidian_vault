@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Research Ideas/how to design an experiment.md",
+                "file": "Research/Research Ideas/Find a.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "how to design an experiment"
+              "title": "Find a"
             }
           },
           {
@@ -91,16 +91,6 @@
               "icon": "lucide-search",
               "title": "Search"
             }
-          },
-          {
-            "id": "4c670dbcdae7d974",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
           }
         ]
       }
@@ -170,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Research Ideas/how to design an experiment.md",
+                "file": "Research/Research Ideas/Find a.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of how to design an experiment"
+              "title": "Outline of Find a"
             }
           },
           {
@@ -211,17 +201,28 @@
   },
   "active": "cf239d58ce21eb52",
   "lastOpenFiles": [
-    "Research/Research Ideas/Privacy Vulnerability.md",
-    "Research/Research Ideas/how to design an experiment.md",
-    "Research/Math Foundation/Confidence Score.md",
     "Research/Generating Ideas/Small Paper From Big Paper.md",
+    "Research/Research Ideas/Find a.md",
+    "Research/Common Issues/plt.show().md",
+    "Research/Common Issues/Statement and Definition.md",
+    "Research/Common Issues/The Scope of Modules, Variables and Class.md",
+    "Research/Common Issues/The Model in train.py and predict.py Mismatch.md",
+    "Research/Common Issues/How to Display Images Running in Terminal.md",
+    "Research/Coding and Structuring ML Projects/dataset.py.md",
+    "Research/Coding and Structuring ML Projects/Modules Sharing Information.md",
+    "Research/Drafts/Ideas.md",
+    "Research/Coding and Structuring ML Projects/3 Layers of a Project.md",
+    "Research/Basic Questions/Still questions about __name__.md",
+    "Research/Basic Questions/__name__.md",
+    "Research/Research Ideas/how to design an experiment.md",
+    "Research/Research Ideas/Privacy Vulnerability.md",
+    "Research/Math Foundation/Confidence Score.md",
     "Research/Generating Ideas/The Classificaion of Research Papers.md",
     "Notes/Templates/Markdown.md",
     "Research/Standard Workflow/Workflow of Creating and Using a Conda environment.md",
     "Research/Research Spirits/Research Spirits.md",
     "Research/Math Foundation",
     "Research/Research Spirits",
-    "Research/Drafts/Ideas.md",
     "Research/Research Ideas",
     "Research/The Symbols.md",
     "Research/Python Environment VS Working Directory.md",
@@ -229,23 +230,12 @@
     "Research/Tools/Commands of conda.md",
     "Research/Tools/OS Shortcuts.md",
     "Research/Yanru's Project/Idea.md",
-    "Research/Memorizing Formula/Matrix Multiplication.md",
-    "Research/Others/Useful Shortcuts.md",
     "Research/Memorizing Formula",
-    "Research/To Be Answered and Learned.md",
     "Research/Others",
-    "Research/Searching Prompts/搜索问题.md",
     "Research/Searching Prompts",
-    "Research/Practical Exprerences/How to Save the Model.md",
-    "Research/Coding and Structuring ML Projects/Modules Sharing Information.md",
-    "Research/Unix filesystem structure.md",
-    "Research/Python Environment.md",
     "Research/Practical Exprerences",
     "Research/Yanru's Project",
     "Research/Generating Ideas",
-    "Research/Common Issues/The Model in train.py and predict.py Mismatch.md",
-    "Research/Basic Questions/Still questions about __name__.md",
-    "Research/Basic Questions/__name__.md",
     "Research/Drafts",
     "截屏2025-09-07 03.08.42.png",
     "Untitled.canvas",
