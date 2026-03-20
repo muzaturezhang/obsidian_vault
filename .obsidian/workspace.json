@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Common Issues/How to firstly run a simple experiment (first verified version).md",
+                "file": "Research/Common Issues/如何快速手搓水一篇文献综述呢.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to firstly run a simple experiment (first verified version)"
+              "title": "如何快速手搓水一篇文献综述呢"
             }
           },
           {
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Common Issues/How to firstly run a simple experiment (first verified version).md",
+                "file": "Research/Common Issues/如何快速手搓水一篇文献综述呢.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of How to firstly run a simple experiment (first verified version)"
+              "title": "Outline of 如何快速手搓水一篇文献综述呢"
             }
           },
           {
@@ -201,8 +201,9 @@
   },
   "active": "cf239d58ce21eb52",
   "lastOpenFiles": [
-    "Research/Research Ideas/Find a.md",
     "Research/Common Issues/How to firstly run a simple experiment (first verified version).md",
+    "Research/Common Issues/如何快速手搓水一篇文献综述呢.md",
+    "Research/Research Ideas/Find a.md",
     "Research/Generating Ideas/Small Paper From Big Paper.md",
     "Research/Common Issues/plt.show().md",
     "Research/Common Issues/Statement and Definition.md",
@@ -229,7 +230,6 @@
     "Research/Python Environment VS Working Directory.md",
     "Research/Tools/Common Bash Commands.md",
     "Research/Tools/Commands of conda.md",
-    "Research/Tools/OS Shortcuts.md",
     "Research/Memorizing Formula",
     "Research/Others",
     "Research/Searching Prompts",
