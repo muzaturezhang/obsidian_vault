@@ -72,3 +72,6 @@ What's the scope of the torch.random
 
 ---
 补齐和wyj的科研信息差！特别是科研工具相关的！
+
+---
+learn how to backup the important gpt records in time 
