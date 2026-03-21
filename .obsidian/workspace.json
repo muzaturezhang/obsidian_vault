@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/To Be Answered and Learned.md",
+                "file": "Research/Yanru's Project/Pipeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To Be Answered and Learned"
+              "title": "Pipeline"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/To Be Answered and Learned.md",
+                "file": "Research/Yanru's Project/Pipeline.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of To Be Answered and Learned"
+              "title": "Outline of Pipeline"
             }
           },
           {
@@ -211,32 +211,32 @@
   },
   "active": "cf239d58ce21eb52",
   "lastOpenFiles": [
-    "Research/To Be Done/Finish 3 small projects.md",
-    "Research/Research Ideas/how to design an experiment.md",
-    "Research/Research Ideas/Privacy Vulnerability.md",
-    "Research/Research Ideas/Find a.md",
-    "Research/Research Spirits/Research Spirits.md",
-    "Research/Searching Prompts/搜索问题.md",
-    "Research/Standard Workflow/Experiment.md",
-    "Research/Standard Workflow/Workflow of Creating and Using a Conda environment.md",
-    "Research/Standard Workflow/Standard Workflow of Reproducing a Paper.md",
-    "Research/Yanru's Project/Idea.md",
-    "Research/Yanru's Project/Anto Research.md",
-    "Research/Tools/Common Bash Commands.md",
-    "Research/Tools/Commands of conda.md",
-    "Research/Generating Ideas/Small Paper From Big Paper.md",
-    "Research/Coding and Structuring ML Projects/Modules Sharing Information.md",
-    "Research/Coding and Structuring ML Projects/dataset.py.md",
     "Research/Common Issues/How to Display Images Running in Terminal.md",
+    "Research/Yanru's Project/Pipeline.md",
     "Research/Common Issues/plt.show().md",
     "Research/Common Issues/How to firstly run a simple experiment (first verified version).md",
     "Research/Common Issues/Statement and Definition.md",
-    "Research/Common Issues/如何快速手搓水一篇文献综述呢.md",
-    "Research/Generating Ideas/The Classificaion of Research Papers.md",
     "Research/Drafts/Ideas.md",
-    "Research/Common Issues/The Scope of Modules, Variables and Class.md",
-    "Research/Common Issues/The Model in train.py and predict.py Mismatch.md",
-    "Research/Basic Questions/Still questions about __name__.md",
+    "Research/Generating Ideas/Small Paper From Big Paper.md",
+    "Research/Generating Ideas/The Classificaion of Research Papers.md",
+    "Research/Math Foundation/Confidence Score.md",
+    "Research/Memorizing Formula/Matrix Multiplication.md",
+    "Research/Others/Useful Shortcuts.md",
+    "Research/Practical Exprerences/How to Save the Model.md",
+    "Research/Research Ideas/how to design an experiment.md",
+    "Research/Research Ideas/Privacy Vulnerability.md",
+    "Research/Research Spirits/Research Spirits.md",
+    "Research/Standard Workflow/Standard Workflow of Reproducing a Paper.md",
+    "Research/Standard Workflow/Experiment.md",
+    "Research/Standard Workflow/Workflow of Creating and Using a Conda environment.md",
+    "Research/To Be Done/Finish 3 small projects.md",
+    "Research/Tools/Commands of conda.md",
+    "Research/Tools/Common Bash Commands.md",
+    "Research/Tools/OS Shortcuts.md",
+    "Research/Yanru's Project/Idea.md",
+    "Research/Yanru's Project/Anto Research.md",
+    "Research/The Symbols.md",
+    "Research/To Be Answered and Learned.md",
     "Research/Math Foundation",
     "Research/Research Spirits",
     "Research/Research Ideas",
