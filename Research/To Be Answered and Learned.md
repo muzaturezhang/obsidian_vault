@@ -66,3 +66,9 @@ ways to prevent overfitting in machine learning
 
 ---
 What's the scope of the torch.random
+
+---
+还是要多研究一下gpt的使用方法，之前似乎一直都没使用对
+
+---
+补齐和wyj的科研信息差！特别是科研工具相关的！
