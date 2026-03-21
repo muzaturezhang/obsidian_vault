@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Yanru's Project/Pipeline.md",
+                "file": "Research/To Be Answered and Learned.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pipeline"
+              "title": "To Be Answered and Learned"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Yanru's Project/Pipeline.md",
+                "file": "Research/To Be Answered and Learned.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pipeline"
+              "title": "Outline of To Be Answered and Learned"
             }
           },
           {
@@ -211,8 +211,8 @@
   },
   "active": "cf239d58ce21eb52",
   "lastOpenFiles": [
-    "Research/Common Issues/How to Display Images Running in Terminal.md",
     "Research/Yanru's Project/Pipeline.md",
+    "Research/Common Issues/How to Display Images Running in Terminal.md",
     "Research/Common Issues/plt.show().md",
     "Research/Common Issues/How to firstly run a simple experiment (first verified version).md",
     "Research/Common Issues/Statement and Definition.md",
