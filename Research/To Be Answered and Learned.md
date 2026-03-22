@@ -81,3 +81,6 @@ CLI and Linux 赶快学一下！
 
 ---
 How to specify whether an idea/topic has been searched and finished？（不缺不漏）
+
+---
+如何科研训练自己
