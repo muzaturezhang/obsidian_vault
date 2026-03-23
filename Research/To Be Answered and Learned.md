@@ -91,3 +91,9 @@ How to specify whether an idea/topic has been searched and finished？（不缺�
 
 ---
 如何提高写代码的能力
+
+---
+常见找paper体系的方式 eg. forward reference tracking
+
+---
+how to manage the papers（like should I copy the links into obsidian or just star in google scholar）
