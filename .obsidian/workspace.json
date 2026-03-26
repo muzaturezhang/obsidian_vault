@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Basic Questions/Still questions about __name__.md",
-                "mode": "source",
-                "source": false
+                "file": "Mathematics/Prob. & Stats./Experiment, Sample and Random Variable.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Still questions about __name__"
+              "title": "Experiment, Sample and Random Variable"
             }
           },
           {
@@ -29,7 +29,7 @@
               "state": {
                 "file": "Research/Tools/Common Bash Commands.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Common Bash Commands"
@@ -43,7 +43,7 @@
               "state": {
                 "file": "Research/Tools/Common Bash Commands.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Common Bash Commands"
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Basic Questions/Still questions about __name__.md",
+                "file": "Mathematics/Prob. & Stats./Experiment, Sample and Random Variable.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Still questions about __name__"
+              "title": "Outline of Experiment, Sample and Random Variable"
             }
           },
           {
@@ -211,9 +211,12 @@
   },
   "active": "cf239d58ce21eb52",
   "lastOpenFiles": [
+    "Research/Basic Questions/Still questions about __name__.md",
+    "Mathematics/Prob. & Stats./Experiment, Sample and Random Variable.md",
+    "Mathematics/Prob. & Stats.",
+    "Mathematics",
     "Research/Coding and Structuring ML Projects/3 Layers of a Project.md",
     "Research/Coding and Structuring ML Projects/dataset.py.md",
-    "Research/Basic Questions/Still questions about __name__.md",
     "Research/Common Issues/The Scope of Modules, Variables and Class.md",
     "20250924 零碎知识.md",
     "20250924 问题.md",
@@ -237,7 +240,6 @@
     "Research/Practical Exprerences/How to Save the Model.md",
     "Research/Searching Prompts/搜索问题.md",
     "Research/Standard Workflow/Experiment.md",
-    "Research/Standard Workflow/Standard Workflow of Reproducing a Paper.md",
     "Research/心态调整",
     "Research/Math Foundation",
     "Research/Research Spirits",
@@ -245,8 +247,6 @@
     "Research/Memorizing Formula",
     "Research/Others",
     "Research/Searching Prompts",
-    "Research/Practical Exprerences",
-    "Research/Yanru's Project",
     "截屏2025-09-07 03.08.42.png",
     "Untitled.canvas",
     "100 Computer Science/120 Research/121 GraphRAG/将KG-RAG融入MAC的思路图.canvas",

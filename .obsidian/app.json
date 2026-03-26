@@ -1,5 +1,7 @@
 {
   "vimMode": false,
   "alwaysUpdateLinks": true,
-  "autoPairBrackets": false
+  "autoPairBrackets": false,
+  "defaultViewMode": "preview",
+  "livePreview": false
 }
