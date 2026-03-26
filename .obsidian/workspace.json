@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Prob. & Stats./Experiment, Sample and Random Variable.md",
+                "file": "Research/To Be Answered and Learned.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Experiment, Sample and Random Variable"
+              "title": "To Be Answered and Learned"
             },
             "group": "9fe953ff1bd7786b"
           }
@@ -34,13 +34,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Prob. & Stats./Experiment, Sample and Random Variable.md",
+                "file": "Research/To Be Answered and Learned.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Experiment, Sample and Random Variable"
+              "title": "To Be Answered and Learned"
             },
             "group": "9fe953ff1bd7786b"
           }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematics/Prob. & Stats./Experiment, Sample and Random Variable.md",
+                "file": "Research/To Be Answered and Learned.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Experiment, Sample and Random Variable"
+              "title": "Backlinks for To Be Answered and Learned"
             }
           },
           {
@@ -136,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Prob. & Stats./Experiment, Sample and Random Variable.md",
+                "file": "Research/To Be Answered and Learned.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Experiment, Sample and Random Variable"
+              "title": "Outgoing links from To Be Answered and Learned"
             }
           },
           {
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Prob. & Stats./Experiment, Sample and Random Variable.md",
+                "file": "Research/To Be Answered and Learned.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Experiment, Sample and Random Variable"
+              "title": "Outline of To Be Answered and Learned"
             }
           },
           {
@@ -204,37 +204,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c36718d012888560",
+  "active": "cf239d58ce21eb52",
   "lastOpenFiles": [
-    "Mathematics/Prob. & Stats./Experiment, Sample and Random Variable.md",
-    "Research/Basic Questions/Still questions about __name__.md",
-    "Mathematics/Prob. & Stats.",
-    "Mathematics",
-    "Research/Coding and Structuring ML Projects/3 Layers of a Project.md",
-    "Research/Coding and Structuring ML Projects/dataset.py.md",
-    "Research/Common Issues/The Scope of Modules, Variables and Class.md",
-    "20250924 零碎知识.md",
-    "20250924 问题.md",
-    "Research/Unix filesystem structure.md",
-    "Research/To Be Answered and Learned.md",
-    "Research/The Symbols.md",
-    "Research/Yanru's Project/Relevant Papers.md",
-    "Research/Yanru's Project/Pipeline.md",
-    "Research/Yanru's Project/Idea.md",
-    "Research/Yanru's Project/Anto Research.md",
-    "().md",
-    "Research/Yanru's Project/Untitled",
+    "Research/Tools/OS Shortcuts.md",
     "Research/Tools/Common Bash Commands.md",
+    "Research/Tools/Commands of conda.md",
+    "Research/Standard Workflow/Workflow of Creating and Using a Conda environment.md",
+    "Research/Standard Workflow/Standard Workflow of Reproducing a Paper.md",
+    "Research/Standard Workflow/Experiment.md",
     "Research/Research Spirits/Research Spirits.md",
+    "Research/Research Ideas/how to design an experiment.md",
     "Research/Research Ideas/Privacy Vulnerability.md",
     "Research/Research Ideas/Find a.md",
-    "Research/Research Ideas/how to design an experiment.md",
-    "Research/Coding and Structuring ML Projects/Modules Sharing Information.md",
-    "Research/Common Issues/How to Display Images Running in Terminal.md",
-    "Research/Common Issues/如何快速手搓水一篇文献综述呢.md",
     "Research/Practical Exprerences/How to Save the Model.md",
-    "Research/Searching Prompts/搜索问题.md",
-    "Research/Standard Workflow/Experiment.md",
+    "Research/Others/Useful Shortcuts.md",
+    "Research/Memorizing Formula/Matrix Multiplication.md",
+    "Research/Math Foundation/Confidence Score.md",
+    "Research/Generating Ideas/Small Paper From Big Paper.md",
+    "Research/Generating Ideas/The Classificaion of Research Papers.md",
+    "Research/Drafts/Ideas.md",
+    "Research/Common Issues/如何快速手搓水一篇文献综述呢.md",
+    "Research/Common Issues/The Scope of Modules, Variables and Class.md",
+    "Research/Common Issues/Statement and Definition.md",
+    "Research/Common Issues/plt.show().md",
+    "Research/Unix filesystem structure.md",
+    "Research/To Be Answered and Learned.md",
+    "Research/Python Environment.md",
+    "Research/Python Environment VS Working Directory.md",
+    "Research/To Be Done/Finish 3 small projects.md",
+    "Mathematics/Prob. & Stats.",
+    "Mathematics",
+    "Research/Yanru's Project/Untitled",
     "Research/心态调整",
     "Research/Math Foundation",
     "Research/Research Spirits",

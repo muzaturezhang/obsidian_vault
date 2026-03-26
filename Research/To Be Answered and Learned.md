@@ -97,3 +97,6 @@ How to specify whether an idea/topic has been searched and finished？（不缺�
 
 ---
 how to manage the papers（like should I copy the links into obsidian or just star in google scholar）
+
+---
+learn 数据清洗
