@@ -6,6 +6,7 @@
       {
         "id": "c7473d7b8c79e616",
         "type": "tabs",
+        "dimension": 44.48717948717948,
         "children": [
           {
             "id": "cf239d58ce21eb52",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Gap/国产化：IOE.md",
+                "file": "Research/Tools/Common Bash Commands.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "国产化：IOE"
+              "title": "Common Bash Commands"
             },
             "group": "9fe953ff1bd7786b"
           }
@@ -27,6 +28,7 @@
       {
         "id": "0096c0c116e4329b",
         "type": "tabs",
+        "dimension": 55.51282051282052,
         "children": [
           {
             "id": "89782fbc922ac6a1",
@@ -34,13 +36,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Gap/国产化：IOE.md",
+                "file": "Research/Tools/Common Bash Commands.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "国产化：IOE"
+              "title": "Common Bash Commands"
             },
             "group": "9fe953ff1bd7786b"
           }
@@ -117,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Gap/国产化：IOE.md",
+                "file": "Research/Tools/Common Bash Commands.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +129,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 国产化：IOE"
+              "title": "Backlinks for Common Bash Commands"
             }
           },
           {
@@ -136,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Gap/国产化：IOE.md",
+                "file": "Research/Tools/Common Bash Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 国产化：IOE"
+              "title": "Outgoing links from Common Bash Commands"
             }
           },
           {
@@ -165,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Gap/国产化：IOE.md",
+                "file": "Research/Tools/Common Bash Commands.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 国产化：IOE"
+              "title": "Outline of Common Bash Commands"
             }
           },
           {
@@ -184,7 +186,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -205,13 +208,13 @@
   },
   "active": "cf239d58ce21eb52",
   "lastOpenFiles": [
-    "Mathematics/Prob. & Stats./Experiment, Sample and Random Variable.md",
+    "Research/Tools/Commands of conda.md",
     "Information Gap/国产化：IOE.md",
+    "Mathematics/Prob. & Stats./Experiment, Sample and Random Variable.md",
     "Research/To Be Answered and Learned.md",
     "Information Gap",
     "Research/Tools/OS Shortcuts.md",
     "Research/Tools/Common Bash Commands.md",
-    "Research/Tools/Commands of conda.md",
     "Research/Standard Workflow/Workflow of Creating and Using a Conda environment.md",
     "Research/Standard Workflow/Standard Workflow of Reproducing a Paper.md",
     "Research/Standard Workflow/Experiment.md",
