@@ -100,3 +100,6 @@ how to manage the papers（like should I copy the links into obsidian or just st
 
 ---
 learn 数据清洗
+
+---
+learn token technology
