@@ -24,5 +24,8 @@ $$
 $$
 
 $$
-
+\frac{a}{b}=\frac{c}{d}
+$$
+$$
+\phi=1+\frac{1}{1+\frac{1}{1+\frac{1}{1+\dots}}}
 $$
