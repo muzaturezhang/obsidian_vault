@@ -31,7 +31,17 @@ $$
 $$
 
 $$
-
+\mathbb{1}_{3\times 3}=\pmatrix{1&0&1\\
+0&1&0\\
+0&0&1}
+$$
+$$
+II_{3\times 3}=
+\begin{pmatrix}
+1 & 0 & 0 \\
+0 & 1 & 0 \\
+0 & 0 & 1 
+\end{pmatrix}
 $$
 
 Just do it right now
