@@ -31,16 +31,19 @@ $$
 $$
 
 $$
-\mathbb{1}_{3\times 3}=\pmatrix{1&0&1\\
-0&1&0\\
-0&0&1}
-$$
-$$
-II_{3\times 3}=
-\begin{pmatrix}
+\mathbb{1}_{3\times 3}=\begin{pmatrix}
 1 & 0 & 0 \\
 0 & 1 & 0 \\
-0 & 0 & 1 
+0 & 0 & 1
+\end{pmatrix}
+$$
+$$
+\begin{pmatrix}
+ct' \\
+x' \\
+\end{pmatrix}=\begin{pmatrix}
+\gamma
+
 \end{pmatrix}
 $$
 
