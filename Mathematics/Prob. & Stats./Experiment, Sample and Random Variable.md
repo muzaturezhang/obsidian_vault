@@ -29,3 +29,13 @@ $$
 $$
 \phi=1+\frac{1}{1+\frac{1}{1+\frac{1}{1+\dots}}}
 $$
+
+$$
+
+$$
+
+Just do it right now
+ok
+insert new line Enter
+Delete the previous character Backspace
+Delete the next character
