@@ -42,7 +42,8 @@ $$
 ct' \\
 x' \\
 \end{pmatrix}=\begin{pmatrix}
-\gamma
+\gamma & -v\gamma \\
+-v\gamma & \gamma
 
 \end{pmatrix}
 $$
