@@ -48,6 +48,16 @@ x' \\
 \end{pmatrix}
 $$
 
+$$
+\begin{pmatrix}
+ct' \\
+x' \\
+\end{pmatrix}=\begin{pmatrix}
+\gamma & -v\gamma \\
+-v\gamma & \gamma 
+\end{pmatrix}
+$$
+
 Just do it right now
 ok
 insert new line Enter
