@@ -106,3 +106,6 @@ learn token technology
 
 ---
 What is Hadoop
+
+---
+怎样才能摆脱对AI的依赖，提高自己的代码基本功呢（比如连random应该用numpy都不知道。。。））

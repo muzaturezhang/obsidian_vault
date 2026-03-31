@@ -4,32 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "c7473d7b8c79e616",
+        "id": "0096c0c116e4329b",
         "type": "tabs",
-        "dimension": 46.32107023411371,
         "children": [
           {
-            "id": "cf239d58ce21eb52",
+            "id": "691de83b7a908d3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Prob. & Stats./Experiment, Sample and Random Variable.md",
-                "mode": "source",
+                "file": "Research/To Be Answered and Learned.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Experiment, Sample and Random Variable"
-            },
-            "group": "9fe953ff1bd7786b"
-          }
-        ]
-      },
-      {
-        "id": "0096c0c116e4329b",
-        "type": "tabs",
-        "dimension": 53.67892976588629,
-        "children": [
+              "title": "To Be Answered and Learned"
+            }
+          },
           {
             "id": "89782fbc922ac6a1",
             "type": "leaf",
@@ -43,8 +34,7 @@
               },
               "icon": "lucide-file",
               "title": "Experiment, Sample and Random Variable"
-            },
-            "group": "9fe953ff1bd7786b"
+            }
           }
         ]
       }
@@ -103,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "51ae75361c0d7d41",
@@ -208,14 +197,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cf239d58ce21eb52",
+  "active": "691de83b7a908d3d",
   "lastOpenFiles": [
+    "Mathematics/Prob. & Stats./Experiment, Sample and Random Variable.md",
+    "Research/To Be Answered and Learned.md",
     "Research/Research Spirits/Research Spirits.md",
     "Research/Tools/Common Bash Commands.md",
     "Research/Tools/Commands of conda.md",
     "Information Gap/国产化：IOE.md",
-    "Mathematics/Prob. & Stats./Experiment, Sample and Random Variable.md",
-    "Research/To Be Answered and Learned.md",
     "Information Gap",
     "Research/Tools/OS Shortcuts.md",
     "Research/Standard Workflow/Workflow of Creating and Using a Conda environment.md",
