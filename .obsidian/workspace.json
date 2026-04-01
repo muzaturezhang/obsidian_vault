@@ -13,16 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Professional Questions/Questions List.md",
+                "file": "Mathematics/Prob. & Stats./Experiment, Sample and Random Variable.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Questions List"
-            }
-          },
+              "title": "Experiment, Sample and Random Variable"
+            },
+            "group": "51e50912102b1681"
+          }
+        ]
+      },
+      {
+        "id": "4101c75c1b9ca363",
+        "type": "tabs",
+        "children": [
           {
-            "id": "89782fbc922ac6a1",
+            "id": "f64bf4a78f408798",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,7 +41,8 @@
               },
               "icon": "lucide-file",
               "title": "Experiment, Sample and Random Variable"
-            }
+            },
+            "group": "51e50912102b1681"
           }
         ]
       }
@@ -93,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "51ae75361c0d7d41",
@@ -157,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Professional Questions/Questions List.md",
+                "file": "Mathematics/Prob. & Stats./Experiment, Sample and Random Variable.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Questions List"
+              "title": "Outline of Experiment, Sample and Random Variable"
             }
           },
           {
@@ -181,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416.5
+    "width": 416.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,6 +208,8 @@
   },
   "active": "691de83b7a908d3d",
   "lastOpenFiles": [
+    "Notes/Templates/Markdown.md",
+    "Research/Professional Questions/Questions List.md",
     "Research/Python Environment.md",
     "Research/Python Environment VS Working Directory.md",
     "Research/Unix filesystem structure.md",
@@ -216,7 +228,6 @@
     "Research/Generating Ideas/The Classificaion of Research Papers.md",
     "Research/Common Issues/The Model in train.py and predict.py Mismatch.md",
     "Research/Research Ideas/how to design an experiment.md",
-    "Research/Professional Questions/Questions List.md",
     "Research/Professional Questions",
     "Mathematics/Prob. & Stats./Experiment, Sample and Random Variable.md",
     "Research/Tools/Common Bash Commands.md",
@@ -225,7 +236,6 @@
     "Information Gap",
     "Research/Standard Workflow/Experiment.md",
     "Research/Research Ideas/Find a.md",
-    "Research/Memorizing Formula/Matrix Multiplication.md",
     "Mathematics/Prob. & Stats.",
     "Mathematics",
     "Research/Yanru's Project/Untitled",
