@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Standard Workflow/Standard Workflow of Reading a Paper.md",
+                "file": "Research/Professional Questions/Questions List.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Standard Workflow of Reading a Paper"
+              "title": "Questions List"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Standard Workflow/Standard Workflow of Reading a Paper.md",
+                "file": "Research/Professional Questions/Questions List.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Standard Workflow of Reading a Paper"
+              "title": "Outline of Questions List"
             }
           },
           {
@@ -198,8 +198,14 @@
   },
   "active": "691de83b7a908d3d",
   "lastOpenFiles": [
-    "Research/Standard Workflow/Standard Workflow of Reproducing a Paper.md",
+    "Research/Python Environment.md",
+    "Research/Python Environment VS Working Directory.md",
+    "Research/Unix filesystem structure.md",
+    "Research/The Symbols.md",
+    "Research/Yanru's Project/Pipeline.md",
+    "Research/To Be Answered and Learned.md",
     "Research/Standard Workflow/Standard Workflow of Reading a Paper.md",
+    "Research/Standard Workflow/Standard Workflow of Reproducing a Paper.md",
     "Research/Tools/OS Shortcuts.md",
     "Research/To Be Done/Finish 3 small projects.md",
     "Research/Standard Workflow/Workflow of Creating and Using a Conda environment.md",
@@ -211,7 +217,6 @@
     "Research/Common Issues/The Model in train.py and predict.py Mismatch.md",
     "Research/Research Ideas/how to design an experiment.md",
     "Research/Professional Questions/Questions List.md",
-    "Research/To Be Answered and Learned.md",
     "Research/Professional Questions",
     "Mathematics/Prob. & Stats./Experiment, Sample and Random Variable.md",
     "Research/Tools/Common Bash Commands.md",
@@ -221,11 +226,6 @@
     "Research/Standard Workflow/Experiment.md",
     "Research/Research Ideas/Find a.md",
     "Research/Memorizing Formula/Matrix Multiplication.md",
-    "Research/Math Foundation/Confidence Score.md",
-    "Research/Generating Ideas/Small Paper From Big Paper.md",
-    "Research/Drafts/Ideas.md",
-    "Research/Common Issues/如何快速手搓水一篇文献综述呢.md",
-    "Research/Common Issues/The Scope of Modules, Variables and Class.md",
     "Mathematics/Prob. & Stats.",
     "Mathematics",
     "Research/Yanru's Project/Untitled",
