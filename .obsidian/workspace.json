@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Professional Questions/Questions List.md",
-                "mode": "preview",
+                "file": "Research/Standard Workflow/Standard Workflow of Reading a Paper.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Questions List"
+              "title": "Standard Workflow of Reading a Paper"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Professional Questions/Questions List.md",
+                "file": "Research/Standard Workflow/Standard Workflow of Reading a Paper.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Questions List"
+              "title": "Outline of Standard Workflow of Reading a Paper"
             }
           },
           {
@@ -196,36 +196,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4170f70196f0fc23",
+  "active": "691de83b7a908d3d",
   "lastOpenFiles": [
-    "Research/To Be Answered and Learned.md",
+    "Research/Standard Workflow/Standard Workflow of Reproducing a Paper.md",
+    "Research/Standard Workflow/Standard Workflow of Reading a Paper.md",
+    "Research/Tools/OS Shortcuts.md",
+    "Research/To Be Done/Finish 3 small projects.md",
+    "Research/Standard Workflow/Workflow of Creating and Using a Conda environment.md",
+    "Research/Research Spirits/Research Spirits.md",
+    "Research/Research Ideas/Privacy Vulnerability.md",
+    "Research/Others/Useful Shortcuts.md",
+    "Research/Practical Exprerences/How to Save the Model.md",
+    "Research/Generating Ideas/The Classificaion of Research Papers.md",
+    "Research/Common Issues/The Model in train.py and predict.py Mismatch.md",
+    "Research/Research Ideas/how to design an experiment.md",
     "Research/Professional Questions/Questions List.md",
+    "Research/To Be Answered and Learned.md",
     "Research/Professional Questions",
     "Mathematics/Prob. & Stats./Experiment, Sample and Random Variable.md",
-    "Research/Research Spirits/Research Spirits.md",
     "Research/Tools/Common Bash Commands.md",
     "Research/Tools/Commands of conda.md",
     "Information Gap/国产化：IOE.md",
     "Information Gap",
-    "Research/Tools/OS Shortcuts.md",
-    "Research/Standard Workflow/Workflow of Creating and Using a Conda environment.md",
-    "Research/Standard Workflow/Standard Workflow of Reproducing a Paper.md",
     "Research/Standard Workflow/Experiment.md",
-    "Research/Research Ideas/how to design an experiment.md",
-    "Research/Research Ideas/Privacy Vulnerability.md",
     "Research/Research Ideas/Find a.md",
-    "Research/Practical Exprerences/How to Save the Model.md",
-    "Research/Others/Useful Shortcuts.md",
     "Research/Memorizing Formula/Matrix Multiplication.md",
     "Research/Math Foundation/Confidence Score.md",
     "Research/Generating Ideas/Small Paper From Big Paper.md",
-    "Research/Generating Ideas/The Classificaion of Research Papers.md",
     "Research/Drafts/Ideas.md",
     "Research/Common Issues/如何快速手搓水一篇文献综述呢.md",
     "Research/Common Issues/The Scope of Modules, Variables and Class.md",
-    "Research/Common Issues/Statement and Definition.md",
-    "Research/Common Issues/plt.show().md",
-    "Research/Unix filesystem structure.md",
     "Mathematics/Prob. & Stats.",
     "Mathematics",
     "Research/Yanru's Project/Untitled",
