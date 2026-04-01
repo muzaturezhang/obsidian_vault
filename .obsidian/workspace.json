@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Prob. & Stats./Experiment, Sample and Random Variable.md",
+                "file": "Research/Research Spirits/Research Spirits.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Experiment, Sample and Random Variable"
+              "title": "Research Spirits"
             },
             "group": "51e50912102b1681"
           }
@@ -34,13 +34,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Prob. & Stats./Experiment, Sample and Random Variable.md",
+                "file": "Research/Research Spirits/Research Spirits.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Experiment, Sample and Random Variable"
+              "title": "Research Spirits"
             },
             "group": "51e50912102b1681"
           }
@@ -101,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "51ae75361c0d7d41",
@@ -166,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Prob. & Stats./Experiment, Sample and Random Variable.md",
+                "file": "Research/Research Spirits/Research Spirits.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Experiment, Sample and Random Variable"
+              "title": "Outline of Research Spirits"
             }
           },
           {
@@ -208,6 +207,7 @@
   },
   "active": "691de83b7a908d3d",
   "lastOpenFiles": [
+    "Mathematics/Prob. & Stats./Experiment, Sample and Random Variable.md",
     "Notes/Templates/Markdown.md",
     "Research/Professional Questions/Questions List.md",
     "Research/Python Environment.md",
@@ -229,7 +229,6 @@
     "Research/Common Issues/The Model in train.py and predict.py Mismatch.md",
     "Research/Research Ideas/how to design an experiment.md",
     "Research/Professional Questions",
-    "Mathematics/Prob. & Stats./Experiment, Sample and Random Variable.md",
     "Research/Tools/Common Bash Commands.md",
     "Research/Tools/Commands of conda.md",
     "Information Gap/国产化：IOE.md",
