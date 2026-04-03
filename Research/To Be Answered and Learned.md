@@ -112,3 +112,6 @@ What is Hadoop
 
 ---
 感觉还是不熟悉Jupyter notebook 和python 的快捷键啊😭
+
+---
+学习一下大厂的八股

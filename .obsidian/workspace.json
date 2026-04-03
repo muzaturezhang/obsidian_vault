@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Gap/国产化：IOE.md",
+                "file": "Research/To Be Answered and Learned.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "国产化：IOE"
+              "title": "To Be Answered and Learned"
             },
             "group": "51e50912102b1681"
           }
@@ -34,13 +34,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Gap/国产化：IOE.md",
+                "file": "Research/To Be Answered and Learned.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "国产化：IOE"
+              "title": "To Be Answered and Learned"
             },
             "group": "51e50912102b1681"
           }
@@ -207,32 +207,32 @@
   },
   "active": "691de83b7a908d3d",
   "lastOpenFiles": [
-    "Research/Research Ideas/Find a.md",
+    "Research/Research Spirits/Research Spirits.md",
     "Research/Research Ideas/Privacy Vulnerability.md",
-    "Research/Research Ideas/how to design an experiment.md",
+    "Research/Practical Exprerences/How to Save the Model.md",
+    "Research/Memorizing Formula/Matrix Multiplication.md",
+    "Research/Math Foundation/Confidence Score.md",
+    "Research/Generating Ideas/The Classificaion of Research Papers.md",
+    "Research/Generating Ideas/Small Paper From Big Paper.md",
+    "Research/Drafts/Ideas.md",
+    "Research/Common Issues/The Scope of Modules, Variables and Class.md",
     "Research/Common Issues/plt.show().md",
+    "Research/Basic Questions/__name__.md",
+    "Mathematics/Prob. & Stats./公理化(axiomatization).md",
+    "Information Gap/国产化：IOE.md",
+    "Research/Research Ideas/Find a.md",
+    "Research/Research Ideas/how to design an experiment.md",
     "Research/Common Issues/How to Display Images Running in Terminal.md",
     "Research/Coding and Structuring ML Projects/dataset.py.md",
     "Research/Coding and Structuring ML Projects/Modules Sharing Information.md",
     "Research/Coding and Structuring ML Projects/3 Layers of a Project.md",
-    "Research/Basic Questions/__name__.md",
     "Research/Basic Questions/Still questions about __name__.md",
     "Mathematics/Prob. & Stats./Experiment, Sample and Random Variable.md",
-    "Mathematics/Prob. & Stats./公理化(axiomatization).md",
-    "Research/Research Spirits/Research Spirits.md",
     "Notes/Templates/Markdown.md",
     "Research/Professional Questions/Questions List.md",
     "Research/Python Environment.md",
     "Research/Python Environment VS Working Directory.md",
     "Research/Unix filesystem structure.md",
-    "Research/The Symbols.md",
-    "Research/Yanru's Project/Pipeline.md",
-    "Research/To Be Answered and Learned.md",
-    "Research/Standard Workflow/Standard Workflow of Reading a Paper.md",
-    "Research/Standard Workflow/Standard Workflow of Reproducing a Paper.md",
-    "Research/Tools/OS Shortcuts.md",
-    "Research/To Be Done/Finish 3 small projects.md",
-    "Research/Standard Workflow/Workflow of Creating and Using a Conda environment.md",
     "Research/Professional Questions",
     "Information Gap",
     "Mathematics/Prob. & Stats.",
