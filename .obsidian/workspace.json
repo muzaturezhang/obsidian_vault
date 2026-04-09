@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Prob. & Stats./公理化(axiomatization).md",
+                "file": "Machine Learning/Representation Learning/语义结构.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "公理化(axiomatization)"
+              "title": "语义结构"
             },
             "group": "8d3bfb4fc6ddd6e7"
           }
@@ -34,13 +34,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Prob. & Stats./公理化(axiomatization).md",
+                "file": "Machine Learning/Representation Learning/语义结构.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "公理化(axiomatization)"
+              "title": "语义结构"
             },
             "group": "8d3bfb4fc6ddd6e7"
           }
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematics/Prob. & Stats./公理化(axiomatization).md",
+                "file": "Machine Learning/Representation Learning/语义结构.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 公理化(axiomatization)"
+              "title": "Outline of 语义结构"
             }
           },
           {
@@ -205,14 +205,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "84d19ade7e16908c",
+  "active": "0dce24a937341852",
   "lastOpenFiles": [
+    "Machine Learning/Representation Learning/像素差.md",
+    "Machine Learning/Representation Learning/语义结构.md",
+    "Machine Learning/Representation Learning.md",
+    "Machine Learning/Representation Learning",
+    "Machine Learning/Tensor.md",
+    "Machine Learning/视觉基座模型(Vision Foundation Model).md",
+    "Mathematics/Prob. & Stats./公理化(axiomatization).md",
     "Mathematics/Prob. & Stats./Experiment, Sample and Random Variable.md",
     "Research/Practical Exprerences/How to Save the Model.md",
     "Research/Professional Questions/Questions List.md",
-    "Machine Learning/Representation Learning.md",
-    "Machine Learning/Tensor.md",
-    "Machine Learning/视觉基座模型(Vision Foundation Model).md",
     "Research/To Be Answered and Learned.md",
     "Research/Common Issues/plt.show().md",
     "Machine Learning",
@@ -228,12 +232,9 @@
     "Research/Drafts/Ideas.md",
     "Research/Common Issues/The Scope of Modules, Variables and Class.md",
     "Research/Basic Questions/__name__.md",
-    "Mathematics/Prob. & Stats./公理化(axiomatization).md",
     "Research/Research Ideas/Find a.md",
     "Research/Research Ideas/how to design an experiment.md",
     "Research/Coding and Structuring ML Projects/dataset.py.md",
-    "Research/Coding and Structuring ML Projects/Modules Sharing Information.md",
-    "Research/Coding and Structuring ML Projects/3 Layers of a Project.md",
     "Research/Professional Questions",
     "Information Gap",
     "Mathematics/Prob. & Stats.",
@@ -242,7 +243,6 @@
     "Research/心态调整",
     "Research/Math Foundation",
     "Research/Research Spirits",
-    "Research/Research Ideas",
     "截屏2025-09-07 03.08.42.png",
     "Untitled.canvas",
     "100 Computer Science/120 Research/121 GraphRAG/将KG-RAG融入MAC的思路图.canvas",
