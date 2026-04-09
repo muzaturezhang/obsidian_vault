@@ -205,10 +205,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0dce24a937341852",
+  "active": "c36718d012888560",
   "lastOpenFiles": [
-    "Machine Learning/Representation Learning/像素差.md",
+    "Research/Standard Workflow/最后再调整笔记不同板块之间的link、footnote.md",
+    "Research/Standard Workflow/Experiment.md",
     "Machine Learning/Representation Learning/语义结构.md",
+    "Machine Learning/Representation Learning/像素差.md",
     "Machine Learning/Representation Learning.md",
     "Machine Learning/Representation Learning",
     "Machine Learning/Tensor.md",
@@ -233,8 +235,6 @@
     "Research/Common Issues/The Scope of Modules, Variables and Class.md",
     "Research/Basic Questions/__name__.md",
     "Research/Research Ideas/Find a.md",
-    "Research/Research Ideas/how to design an experiment.md",
-    "Research/Coding and Structuring ML Projects/dataset.py.md",
     "Research/Professional Questions",
     "Information Gap",
     "Mathematics/Prob. & Stats.",
