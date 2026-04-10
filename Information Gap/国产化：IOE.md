@@ -16,3 +16,8 @@ Oracle
 # R cluster
 
 # Netflix Prize
+
+# Hadoop
+
+# 期权
+

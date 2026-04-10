@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/To Be Answered and Learned.md",
+                "file": "Information Gap/zy课笔记.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "To Be Answered and Learned"
+              "title": "zy课笔记"
             },
             "group": "8d3bfb4fc6ddd6e7"
           }
@@ -34,13 +34,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/To Be Answered and Learned.md",
+                "file": "Information Gap/zy课笔记.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "To Be Answered and Learned"
+              "title": "zy课笔记"
             },
             "group": "8d3bfb4fc6ddd6e7"
           }
@@ -136,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematics/Prob. & Stats./Experiment, Sample and Random Variable.md",
+                "file": "Information Gap/zy课笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Experiment, Sample and Random Variable"
+              "title": "Outgoing links from zy课笔记"
             }
           },
           {
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Representation Learning/语义结构.md",
+                "file": "Information Gap/zy课笔记.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 语义结构"
+              "title": "Outline of zy课笔记"
             }
           },
           {
@@ -205,14 +205,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "84d19ade7e16908c",
+  "active": "0dce24a937341852",
   "lastOpenFiles": [
-    "Research/To Be Done/Finish 3 small projects.md",
+    "Information Gap/Questions.md",
+    "Information Gap/zy课笔记.md",
     "Machine Learning/Representation Learning/语义结构.md",
+    "Machine Learning/Representation Learning/像素差.md",
+    "Information Gap/国产化：IOE.md",
+    "Blog Drafts/Untitled.md",
+    "100 Computer Science/120 Research/122 Paper Note/Medical Entity Disambiguation(消歧) Using Graph Neural Networks.md",
+    "Research/To Be Answered and Learned.md",
+    "Research/To Be Done/Finish 3 small projects.md",
     "Machine Learning/Representation Learning.md",
     "Research/Standard Workflow/最后再调整笔记不同板块之间的link、footnote.md",
     "Research/Standard Workflow/Experiment.md",
-    "Machine Learning/Representation Learning/像素差.md",
     "Machine Learning/Representation Learning",
     "Machine Learning/Tensor.md",
     "Machine Learning/视觉基座模型(Vision Foundation Model).md",
@@ -220,7 +226,6 @@
     "Mathematics/Prob. & Stats./Experiment, Sample and Random Variable.md",
     "Research/Practical Exprerences/How to Save the Model.md",
     "Research/Professional Questions/Questions List.md",
-    "Research/To Be Answered and Learned.md",
     "Research/Common Issues/plt.show().md",
     "Machine Learning",
     "Research/Common Issues/The Model in train.py and predict.py Mismatch.md",
@@ -228,13 +233,8 @@
     "Research/Memorizing Formula/Matrix Multiplication.md",
     "Research/Generating Ideas/The Classificaion of Research Papers.md",
     "Research/Generating Ideas/Small Paper From Big Paper.md",
-    "Information Gap/国产化：IOE.md",
     "Research/Research Spirits/Research Spirits.md",
     "Research/Research Ideas/Privacy Vulnerability.md",
-    "Research/Math Foundation/Confidence Score.md",
-    "Research/Drafts/Ideas.md",
-    "Research/Common Issues/The Scope of Modules, Variables and Class.md",
-    "Research/Basic Questions/__name__.md",
     "Research/Professional Questions",
     "Information Gap",
     "Mathematics/Prob. & Stats.",
