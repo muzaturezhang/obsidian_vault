@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Gap/zy课笔记.md",
+                "file": "Research/To Be Answered and Learned.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "zy课笔记"
+              "title": "To Be Answered and Learned"
             },
             "group": "8d3bfb4fc6ddd6e7"
           }
@@ -34,13 +34,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Gap/zy课笔记.md",
+                "file": "Research/To Be Answered and Learned.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "zy课笔记"
+              "title": "To Be Answered and Learned"
             },
             "group": "8d3bfb4fc6ddd6e7"
           }
@@ -207,8 +207,8 @@
   },
   "active": "0dce24a937341852",
   "lastOpenFiles": [
-    "Information Gap/Questions.md",
     "Information Gap/zy课笔记.md",
+    "Information Gap/Questions.md",
     "Machine Learning/Representation Learning/语义结构.md",
     "Machine Learning/Representation Learning/像素差.md",
     "Information Gap/国产化：IOE.md",

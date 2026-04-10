@@ -118,3 +118,6 @@ What is Hadoop
 
 ---
 Learn how to prompt
+
+---
+研究一下随机种子的作用域
