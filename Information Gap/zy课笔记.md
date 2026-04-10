@@ -33,3 +33,7 @@ Date: 2026-04-10
 4. Cloud Computing 好处
 	1. 提高资源利用率
 	2. 节约cost
+	
+5. 核心特征：Virtualization
+
+# 
