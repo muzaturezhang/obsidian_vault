@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Gap/zy课笔记.md",
+                "file": "Multi-agent-conversation拷打/🧪 Multi-Agent Disease Diagnosis 项目审查问题（严格导师版）.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of zy课笔记"
+              "title": "Outline of 🧪 Multi-Agent Disease Diagnosis 项目审查问题（严格导师版）"
             }
           },
           {
@@ -205,10 +205,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0dce24a937341852",
+  "active": "84d19ade7e16908c",
   "lastOpenFiles": [
-    "Research/To Be Answered and Learned.md",
+    "Multi-agent-conversation拷打/🧠 Multi-Agent Diagnosis（机制层深度拷问）.md",
     "Multi-agent-conversation拷打/🧪 Multi-Agent Disease Diagnosis 项目审查问题（严格导师版）.md",
+    "Research/To Be Answered and Learned.md",
     "Multi-agent-conversation拷打",
     "Information Gap/zy课笔记.md",
     "Information Gap/Questions.md",
@@ -235,7 +236,6 @@
     "Research/Memorizing Formula/Matrix Multiplication.md",
     "Research/Generating Ideas/The Classificaion of Research Papers.md",
     "Research/Generating Ideas/Small Paper From Big Paper.md",
-    "Research/Research Spirits/Research Spirits.md",
     "Research/Professional Questions",
     "Information Gap",
     "Mathematics/Prob. & Stats.",
