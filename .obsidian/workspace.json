@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Basic Questions/Still questions about __name__.md",
+                "file": "Research/Deferred Learning Backlog.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Still questions about __name__"
+              "title": "Deferred Learning Backlog"
             },
             "group": "8d3bfb4fc6ddd6e7"
           }
@@ -34,13 +34,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Basic Questions/Still questions about __name__.md",
+                "file": "Research/Deferred Learning Backlog.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Still questions about __name__"
+              "title": "Deferred Learning Backlog"
             },
             "group": "8d3bfb4fc6ddd6e7"
           }
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Basic Questions/Still questions about __name__.md",
+                "file": "Research/Deferred Learning Backlog.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Still questions about __name__"
+              "title": "Outline of Deferred Learning Backlog"
             }
           },
           {
@@ -207,6 +207,7 @@
   },
   "active": "84d19ade7e16908c",
   "lastOpenFiles": [
+    "Research/Basic Questions/Still questions about __name__.md",
     "Research/Basic Questions/__name__.md",
     "Multi-agent-conversation拷打/🧪 Multi-Agent Disease Diagnosis 项目审查问题（严格导师版）.md",
     "Mathematics/Prob. & Stats./公理化(axiomatization).md",
@@ -236,7 +237,6 @@
     "Machine Learning",
     "Research/Common Issues/The Model in train.py and predict.py Mismatch.md",
     "Research/Common Issues/How to Display Images Running in Terminal.md",
-    "Research/Memorizing Formula/Matrix Multiplication.md",
     "Research/Professional Questions",
     "Information Gap",
     "Mathematics/Prob. & Stats.",
