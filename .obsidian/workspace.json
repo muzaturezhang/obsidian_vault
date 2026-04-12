@@ -44,7 +44,7 @@
               "type": "markdown",
               "state": {
                 "file": "Paper调研.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -53,7 +53,7 @@
             "group": "bbadde0f568d2e47"
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "a4829db67ff35310",
@@ -253,10 +253,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9f8903a217ffab8",
+  "active": "95f4146e55da867f",
   "lastOpenFiles": [
-    "Paper调研.md",
     "Research/Deferred Learning Backlog.md",
+    "Paper调研.md",
     "Machine Learning/Representation Learning/语义结构.md",
     "Untitled",
     "Machine Learning/Representation Learning/像素差.md",
