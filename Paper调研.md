@@ -18,10 +18,14 @@
 > 早期截断：利用谣言发布后短时间内的少量信息进行预测 （【是否可以建立一个 **信息发布后早期数据** 的数据集作为创新点】）
 
 
+### Existed Work
+- Develop a neural model
+	> 可结合【Computational Linguistics】学科的知识设计 **handcrafting features** ，既可以作为预测模型的判断因素，也可以通过预测模型来筛选更关键的 **features** 反向为【计算语言学】作出研究贡献
 
 ### Interdisciplinary Knowledge
 
 - Computational Linguistics
+	- temporal concept drift（数据的规律会随着时间变化）
 
 
 
