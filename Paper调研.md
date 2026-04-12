@@ -19,5 +19,11 @@
 
 
 
+### Interdisciplinary Knowledge
+
+- Computational Linguistics
+
+
+
 
 
