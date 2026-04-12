@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paper调研.md",
+                "file": "Research/To Be Answered and Learned.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Paper调研"
+              "title": "To Be Answered and Learned"
             },
             "group": "bbadde0f568d2e47"
           }
@@ -82,12 +82,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paper调研.md",
+                "file": "Research/To Be Answered and Learned.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Paper调研"
+              "title": "To Be Answered and Learned"
             },
             "group": "bbadde0f568d2e47"
           }
@@ -255,8 +255,9 @@
   },
   "active": "95f4146e55da867f",
   "lastOpenFiles": [
-    "Research/Deferred Learning Backlog.md",
+    "Research/Unix filesystem structure.md",
     "Paper调研.md",
+    "Research/Deferred Learning Backlog.md",
     "Machine Learning/Representation Learning/语义结构.md",
     "Untitled",
     "Machine Learning/Representation Learning/像素差.md",
@@ -285,7 +286,6 @@
     "Research/Professional Questions/Questions List.md",
     "Research/Common Issues/plt.show().md",
     "Machine Learning",
-    "Research/Common Issues/The Model in train.py and predict.py Mismatch.md",
     "Research/Professional Questions",
     "Information Gap",
     "Mathematics/Prob. & Stats.",
