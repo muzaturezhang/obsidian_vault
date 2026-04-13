@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Prompts/建立 mental map.md",
+                "file": "Multi-agent-conversation拷打/「C」main_wo_supr.py/Overview.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "建立 mental map"
+              "title": "Overview"
             },
             "group": "bbadde0f568d2e47"
           }
@@ -96,12 +96,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Prompts/建立 mental map.md",
-                "mode": "preview",
+                "file": "Multi-agent-conversation拷打/「C」main_wo_supr.py/Overview.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "建立 mental map"
+              "title": "Overview"
             },
             "group": "bbadde0f568d2e47"
           }
@@ -163,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 228.5
   },
   "right": {
     "id": "51ae75361c0d7d41",
@@ -269,8 +269,13 @@
   },
   "active": "95f4146e55da867f",
   "lastOpenFiles": [
-    "Paper调研.md",
+    "Multi-agent-conversation拷打/🧠 Multi-Agent Diagnosis（机制层深度拷问）.md",
+    "Multi-agent-conversation拷打/「C」main_wo_supr.py/Overview.md",
+    "Multi-agent-conversation拷打/🧪 Multi-Agent Disease Diagnosis 项目审查问题（严格导师版）.md",
+    "Multi-agent-conversation拷打/「C」main_wo_supr.py",
+    "Information Gap/zy课笔记.md",
     "Research/Prompts/建立 mental map.md",
+    "Paper调研.md",
     "Research/Prompts",
     "Research/Deferred Learning Backlog.md",
     "Research/To Be Answered and Learned.md",
@@ -282,14 +287,11 @@
     "Machine Learning/Tensor.md",
     "Machine Learning/Representation Learning.md",
     "Information Gap/国产化：IOE.md",
-    "Information Gap/zy课笔记.md",
     "Research/Basic Questions/Still questions about __name__.md",
     "Research/Basic Questions/__name__.md",
-    "Multi-agent-conversation拷打/🧪 Multi-Agent Disease Diagnosis 项目审查问题（严格导师版）.md",
     "Mathematics/Prob. & Stats./公理化(axiomatization).md",
     "Mathematics/Prob. & Stats./Experiment, Sample and Random Variable.md",
     "Research/Fundament",
-    "Multi-agent-conversation拷打/🧠 Multi-Agent Diagnosis（机制层深度拷问）.md",
     "Multi-agent-conversation拷打",
     "Information Gap/Questions.md",
     "Blog Drafts/Untitled.md",
@@ -298,13 +300,10 @@
     "Research/Standard Workflow/最后再调整笔记不同板块之间的link、footnote.md",
     "Research/Standard Workflow/Experiment.md",
     "Machine Learning/Representation Learning",
-    "Research/Practical Exprerences/How to Save the Model.md",
-    "Research/Professional Questions/Questions List.md",
     "Machine Learning",
     "Research/Professional Questions",
     "Information Gap",
     "Mathematics/Prob. & Stats.",
-    "Mathematics",
     "截屏2025-09-07 03.08.42.png",
     "Untitled.canvas",
     "100 Computer Science/120 Research/121 GraphRAG/将KG-RAG融入MAC的思路图.canvas",
