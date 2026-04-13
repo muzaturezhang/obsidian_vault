@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paper调研.md",
+                "file": "Research/Prompts/建立 mental map.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Paper调研"
+              "title": "建立 mental map"
             },
             "group": "bbadde0f568d2e47"
           }
@@ -96,12 +96,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paper调研.md",
+                "file": "Research/Prompts/建立 mental map.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Paper调研"
+              "title": "建立 mental map"
             },
             "group": "bbadde0f568d2e47"
           }
@@ -267,12 +267,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c36718d012888560",
+  "active": "95f4146e55da867f",
   "lastOpenFiles": [
+    "Paper调研.md",
+    "Research/Prompts/建立 mental map.md",
     "Research/Prompts",
     "Research/Deferred Learning Backlog.md",
     "Research/To Be Answered and Learned.md",
-    "Paper调研.md",
     "Machine Learning/Representation Learning/语义结构.md",
     "Research/Unix filesystem structure.md",
     "Untitled",
@@ -304,7 +305,6 @@
     "Information Gap",
     "Mathematics/Prob. & Stats.",
     "Mathematics",
-    "Research/Yanru's Project/Untitled",
     "截屏2025-09-07 03.08.42.png",
     "Untitled.canvas",
     "100 Computer Science/120 Research/121 GraphRAG/将KG-RAG融入MAC的思路图.canvas",
