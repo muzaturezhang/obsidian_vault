@@ -267,8 +267,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "95f4146e55da867f",
+  "active": "c36718d012888560",
   "lastOpenFiles": [
+    "Research/Prompts",
     "Research/Deferred Learning Backlog.md",
     "Research/To Be Answered and Learned.md",
     "Paper调研.md",
@@ -298,7 +299,6 @@
     "Machine Learning/Representation Learning",
     "Research/Practical Exprerences/How to Save the Model.md",
     "Research/Professional Questions/Questions List.md",
-    "Research/Common Issues/plt.show().md",
     "Machine Learning",
     "Research/Professional Questions",
     "Information Gap",
