@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/To Be Answered and Learned.md",
+                "file": "Research/Yanru's Project/Idea.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "To Be Answered and Learned"
+              "title": "Idea"
             }
           },
           {
@@ -67,7 +67,7 @@
             "group": "bbadde0f568d2e47"
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "a4829db67ff35310",
@@ -267,10 +267,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "95f4146e55da867f",
+  "active": "81d21fe9afaab369",
   "lastOpenFiles": [
-    "Multi-agent-conversation拷打/🧠 Multi-Agent Diagnosis（机制层深度拷问）.md",
+    "Research/To Be Answered and Learned.md",
     "Multi-agent-conversation拷打/「C」main_wo_supr.py/Overview.md",
+    "Multi-agent-conversation拷打/🧠 Multi-Agent Diagnosis（机制层深度拷问）.md",
     "Multi-agent-conversation拷打/🧪 Multi-Agent Disease Diagnosis 项目审查问题（严格导师版）.md",
     "Multi-agent-conversation拷打/「C」main_wo_supr.py",
     "Information Gap/zy课笔记.md",
@@ -278,7 +279,6 @@
     "Paper调研.md",
     "Research/Prompts",
     "Research/Deferred Learning Backlog.md",
-    "Research/To Be Answered and Learned.md",
     "Machine Learning/Representation Learning/语义结构.md",
     "Research/Unix filesystem structure.md",
     "Untitled",
