@@ -6,23 +6,8 @@
       {
         "id": "4101c75c1b9ca363",
         "type": "tabs",
-        "dimension": 27.505330490405115,
+        "dimension": 43.78748928877464,
         "children": [
-          {
-            "id": "84d19ade7e16908c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Standard Workflow/最后再调整笔记不同板块之间的link、footnote.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "最后再调整笔记不同板块之间的link、footnote"
-            },
-            "group": "dd4e42539162a61e"
-          },
           {
             "id": "81d21fe9afaab369",
             "type": "leaf",
@@ -43,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Deferred Learning Backlog.md",
+                "file": "Research/The Symbols.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Deferred Learning Backlog"
+              "title": "The Symbols"
             }
           },
           {
@@ -71,7 +56,7 @@
       {
         "id": "a4829db67ff35310",
         "type": "tabs",
-        "dimension": 72.49466950959487,
+        "dimension": 56.21251071122536,
         "children": [
           {
             "id": "e2e32503aad05364",
@@ -86,8 +71,7 @@
               },
               "icon": "lucide-file",
               "title": "最后再调整笔记不同板块之间的link、footnote"
-            },
-            "group": "dd4e42539162a61e"
+            }
           },
           {
             "id": "3c938e59df1d516b",
@@ -119,7 +103,8 @@
             },
             "group": "bbadde0f568d2e47"
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -280,12 +265,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "84d19ade7e16908c",
+  "active": "3c938e59df1d516b",
   "lastOpenFiles": [
+    "Research/Yanru's Project/Idea.md",
+    "Research/The Symbols.md",
+    "Multi-agent-conversation拷打/「C」main_wo_supr.py/Overview.md",
+    "Research/Standard Workflow/最后再调整笔记不同板块之间的link、footnote.md",
+    "Research/Unix filesystem structure.md",
+    "Research/To Be Answered and Learned.md",
+    "Research/Python Environment VS Working Directory.md",
+    "Research/Python Environment.md",
+    "Research/Deferred Learning Backlog.md",
+    "Research/Yanru's Project/Pipeline.md",
     "Research/Standard Workflow/Standard Workflow of Reproducing a Paper.md",
     "Research/Standard Workflow/Experiment.md",
-    "Research/The Symbols.md",
-    "Research/Deferred Learning Backlog.md",
     "Research/Coding and Structuring ML Projects/dataset.py.md",
     "Research/Coding and Structuring ML Projects/Modules Sharing Information.md",
     "Research/Common Issues/How to firstly run a simple experiment (first verified version).md",
@@ -296,20 +289,12 @@
     "Research/Memorizing Formula/Matrix Multiplication.md",
     "Research/Common Issues/plt.show().md",
     "Research/Professional Questions/Questions List.md",
-    "Research/Python Environment VS Working Directory.md",
     "Research/Research Spirits/Research Spirits.md",
     "Paper调研.md",
-    "Research/Yanru's Project/Idea.md",
     "Research/Prompts/建立 mental map.md",
     "Machine Learning/Representation Learning/语义结构.md",
-    "Multi-agent-conversation拷打/「C」main_wo_supr.py/Overview.md",
-    "Research/To Be Answered and Learned.md",
-    "Multi-agent-conversation拷打/🧠 Multi-Agent Diagnosis（机制层深度拷问）.md",
-    "Multi-agent-conversation拷打/🧪 Multi-Agent Disease Diagnosis 项目审查问题（严格导师版）.md",
     "Multi-agent-conversation拷打/「C」main_wo_supr.py",
-    "Information Gap/zy课笔记.md",
     "Research/Prompts",
-    "Research/Unix filesystem structure.md",
     "Untitled",
     "Research/Fundament",
     "Multi-agent-conversation拷打",
