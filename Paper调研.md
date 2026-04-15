@@ -31,3 +31,14 @@
 
 
 
+### 论文结构
+
+```
+1. Task（做什么问题）
+2. Setting / Assumption（在什么条件下做）
+3. Gap / Challenge（哪里做得不好）
+4. Method（怎么解决）
+5. Evaluation Protocol（怎么评估）
+6. Insight / Analysis（你发现了什么规律）
+7. Impact（有什么意义）
+```
