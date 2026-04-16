@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Yanru's Project/Idea.md",
+                "file": "Research/To Be Answered and Learned.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Idea"
+              "title": "To Be Answered and Learned"
             }
           },
           {
@@ -267,13 +267,17 @@
   },
   "active": "81d21fe9afaab369",
   "lastOpenFiles": [
-    "Research/The Symbols.md",
-    "Research/Yanru's Project/Idea.md",
     "Research/Deferred Learning Backlog.md",
+    "Research/To Be Answered and Learned.md",
+    "Blog Drafts/Untitled.md",
+    "Information Gap/国产化：IOE.md",
+    "Machine Learning/Representation Learning/像素差.md",
+    "Machine Learning/Representation Learning/语义结构.md",
+    "Research/Yanru's Project/Idea.md",
+    "Research/The Symbols.md",
     "Multi-agent-conversation拷打/「C」main_wo_supr.py/Overview.md",
     "Research/Standard Workflow/最后再调整笔记不同板块之间的link、footnote.md",
     "Research/Unix filesystem structure.md",
-    "Research/To Be Answered and Learned.md",
     "Research/Python Environment VS Working Directory.md",
     "Research/Python Environment.md",
     "Research/Yanru's Project/Pipeline.md",
@@ -289,10 +293,6 @@
     "Research/Memorizing Formula/Matrix Multiplication.md",
     "Research/Common Issues/plt.show().md",
     "Research/Professional Questions/Questions List.md",
-    "Research/Research Spirits/Research Spirits.md",
-    "Paper调研.md",
-    "Research/Prompts/建立 mental map.md",
-    "Machine Learning/Representation Learning/语义结构.md",
     "Multi-agent-conversation拷打/「C」main_wo_supr.py",
     "Research/Prompts",
     "Untitled",

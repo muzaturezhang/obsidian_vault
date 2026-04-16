@@ -130,3 +130,12 @@ Learn how to prompt
 
 ---
 究竟如何彻底调研一篇文章的内容是否被别人做过呢，chat gpt的调研结果能不能全信？（但我自己去查真的又能比chat gpt全面嘛）
+
+---
+training free 的方法（意思就是用LLM，VLM，agent的方法吗🤔）
+LLM，VLM，agent这些究竟与ML，CV的区别在哪啊！！！它们为什么不属于一个方向
+
+---
+如何查看顶会以及顶会workshop的h-index什么的 **（还是需要学习一下谷歌学术的详细用法！！！）**
+
+---
