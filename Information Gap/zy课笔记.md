@@ -36,4 +36,5 @@ Date: 2026-04-10
 	
 5. 核心特征：Virtualization
 
-# 
+#  Amazon上有个tutorial，把所有的服务都试一遍，就会对云计算的理解加深
+监控-> Storage->database->virtual machine->弹性计算

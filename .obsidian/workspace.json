@@ -6,7 +6,7 @@
       {
         "id": "4101c75c1b9ca363",
         "type": "tabs",
-        "dimension": 43.78748928877464,
+        "dimension": 43.787489288774644,
         "children": [
           {
             "id": "81d21fe9afaab369",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/To Be Answered and Learned.md",
+                "file": "Information Gap/zy课笔记.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "To Be Answered and Learned"
+              "title": "zy课笔记"
             }
           },
           {
@@ -56,7 +56,7 @@
       {
         "id": "a4829db67ff35310",
         "type": "tabs",
-        "dimension": 56.21251071122536,
+        "dimension": 56.212510711225356,
         "children": [
           {
             "id": "e2e32503aad05364",
@@ -267,8 +267,8 @@
   },
   "active": "81d21fe9afaab369",
   "lastOpenFiles": [
-    "Research/Deferred Learning Backlog.md",
     "Research/To Be Answered and Learned.md",
+    "Research/Deferred Learning Backlog.md",
     "Blog Drafts/Untitled.md",
     "Information Gap/国产化：IOE.md",
     "Machine Learning/Representation Learning/像素差.md",
