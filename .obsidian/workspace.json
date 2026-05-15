@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Standard Workflow/Research Records.md",
+                "file": "300 Math/310 数学建模/2025A问题五3.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Research Records"
+              "title": "2025A问题五3"
             }
           },
           {
@@ -79,13 +79,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Deferred Learning Backlog.md",
+                "file": "Paper调研.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Deferred Learning Backlog"
+              "title": "Paper调研"
             }
           },
           {
@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "contribution",
+                "query": "task",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,7 +157,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -265,9 +266,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "81d21fe9afaab369",
+  "active": "3c938e59df1d516b",
   "lastOpenFiles": [
     "Research/Deferred Learning Backlog.md",
+    "300 Math/310 数学建模/2025A问题五3.md",
+    "Research/Math Foundation/Confidence Score.md",
+    "Research/Prompts/建立 mental map.md",
+    "Research/Research Ideas/Find a.md",
+    "Research/Research Ideas/how to design an experiment.md",
+    "Information Gap/zy课笔记.md",
+    "Information Gap/Questions.md",
+    "Information Gap/国产化：IOE.md",
     "Research/Standard Workflow/Research Records.md",
     "Research/Research Spirits/Research Spirits.md",
     "Research/Unix filesystem structure.md",
@@ -281,19 +290,11 @@
     "Research/Standard Workflow/Workflow of Creating and Using a Conda environment.md",
     "Research/Tools/OS Shortcuts.md",
     "Research/Yanru's Project/Anto Research.md",
-    "Information Gap/zy课笔记.md",
     "Blog Drafts/Untitled.md",
-    "Information Gap/国产化：IOE.md",
     "Machine Learning/Representation Learning/像素差.md",
     "Machine Learning/Representation Learning/语义结构.md",
     "Research/Yanru's Project/Idea.md",
     "Multi-agent-conversation拷打/「C」main_wo_supr.py/Overview.md",
-    "Research/Standard Workflow/最后再调整笔记不同板块之间的link、footnote.md",
-    "Research/Yanru's Project/Pipeline.md",
-    "Research/Standard Workflow/Standard Workflow of Reproducing a Paper.md",
-    "Research/Standard Workflow/Experiment.md",
-    "Research/Coding and Structuring ML Projects/dataset.py.md",
-    "Research/Coding and Structuring ML Projects/Modules Sharing Information.md",
     "Multi-agent-conversation拷打/「C」main_wo_supr.py",
     "Research/Prompts",
     "Untitled",
