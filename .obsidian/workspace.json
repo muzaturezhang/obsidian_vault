@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "draft/做数据盘点 + 写第一版筛选脚本2.md",
-                "mode": "preview",
+                "file": "draft/更新的metadata字段.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "做数据盘点 + 写第一版筛选脚本2"
+              "title": "更新的metadata字段"
             }
           },
           {
@@ -198,8 +198,9 @@
   },
   "active": "60cdcdfcd3999fa5",
   "lastOpenFiles": [
-    "draft/做数据盘点 + 写第一版筛选脚本list.md",
     "draft/做数据盘点 + 写第一版筛选脚本2.md",
+    "draft/更新的metadata字段.md",
+    "draft/做数据盘点 + 写第一版筛选脚本list.md",
     "draft/做数据盘点 + 写第一版筛选脚本.md",
     "Untitled.md",
     "Untitled 4.base",
@@ -227,7 +228,6 @@
     "Research/To Be Questioned and Arranged/Research Skeleton.md",
     "Research/To Be Questioned and Arranged",
     "Research/Standard Workflow/Workflow of Creating and Using a Conda environment.md",
-    "Research/Tools/OS Shortcuts.md",
     "Multi-agent-conversation拷打/「C」main_wo_supr.py",
     "Research/Prompts",
     "Untitled",
