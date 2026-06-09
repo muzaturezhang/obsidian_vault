@@ -1,5 +1,5 @@
-root
-level1_hash
+root✅
+level1_hash✅
 level2_hash
 split_dir
 episode_id
@@ -8,11 +8,11 @@ team
 player
 inst
 
-has_rgb
+has_rgb 
 has_depth
 has_seg
 has_hud
-has_motion
+has_motion 
 has_state_json
 has_player_visibility
 has_episode_info
