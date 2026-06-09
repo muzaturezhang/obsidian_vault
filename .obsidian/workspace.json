@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "draft/做数据盘点 + 写第一版筛选脚本list.md",
+                "file": "Research/Prompts/请担任我的科研导航员。目标是XXX。不要一次给完整计划。每次只给我当前最值得做的一步。等我执行并汇报结果后，再决定下一步。.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "做数据盘点 + 写第一版筛选脚本list"
+              "title": "请担任我的科研导航员。目标是XXX。不要一次给完整计划。每次只给我当前最值得做的一步。等我执行并汇报结果后，再决定下一步。"
             }
           }
         ]
@@ -198,10 +198,12 @@
   },
   "active": "60cdcdfcd3999fa5",
   "lastOpenFiles": [
+    "Research/Prompts/请担任我的科研导航员。目标是XXX。不要一次给完整计划。每次只给我当前最值得做的一步。等我执行并汇报结果后，再决定下一步。.md",
     "draft/做数据盘点 + 写第一版筛选脚本2.md",
-    "draft/更新的metadata字段.md",
-    "draft/做数据盘点 + 写第一版筛选脚本list.md",
+    "Prompts",
     "draft/做数据盘点 + 写第一版筛选脚本.md",
+    "draft/做数据盘点 + 写第一版筛选脚本list.md",
+    "draft/更新的metadata字段.md",
     "Untitled.md",
     "Untitled 4.base",
     "draft",
@@ -227,13 +229,11 @@
     "Research/Tools/Common Bash Commands.md",
     "Research/To Be Questioned and Arranged/Research Skeleton.md",
     "Research/To Be Questioned and Arranged",
-    "Research/Standard Workflow/Workflow of Creating and Using a Conda environment.md",
     "Multi-agent-conversation拷打/「C」main_wo_supr.py",
     "Research/Prompts",
     "Untitled",
     "Research/Fundament",
     "Multi-agent-conversation拷打",
-    "Machine Learning/Representation Learning",
     "截屏2025-09-07 03.08.42.png",
     "Untitled.canvas",
     "100 Computer Science/120 Research/121 GraphRAG/将KG-RAG融入MAC的思路图.canvas",
