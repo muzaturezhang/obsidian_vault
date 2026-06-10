@@ -20,3 +20,7 @@ cd /mnt/workspace/zhengqi/multiview-map-v0
 跑实验 / 读结果 / 写 ledger
     ↓
 把服务器路径和数字追加回本地 COMMS.md
+
+这里有个问题，每次claude 醒来为什么不直接看codex那个md，还要再看一下长期记忆（还是说都要看，那长期记忆的用是什么呢）
+
+等等，claude它不会要连续运行3h吧。。。（那得烧多少token）
