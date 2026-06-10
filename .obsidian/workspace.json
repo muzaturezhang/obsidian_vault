@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "draft/自动化实验流程理解.md",
+                "file": "draft/Untitled.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "自动化实验流程理解"
+              "title": "Untitled"
             }
           },
           {
@@ -198,8 +198,9 @@
   },
   "active": "60cdcdfcd3999fa5",
   "lastOpenFiles": [
-    "draft/更新的metadata字段.md",
     "draft/自动化实验流程理解.md",
+    "draft/Untitled.md",
+    "draft/更新的metadata字段.md",
     "draft/做数据盘点 + 写第一版筛选脚本2.md",
     "draft/做数据盘点 + 写第一版筛选脚本list.md",
     "Research/Professional Questions/Questions List.md",
@@ -227,7 +228,6 @@
     "Research/Unix filesystem structure.md",
     "Research/To Be Answered and Learned.md",
     "Research/Python Environment.md",
-    "Research/Python Environment VS Working Directory.md",
     "Research/To Be Questioned and Arranged",
     "Multi-agent-conversation拷打/「C」main_wo_supr.py",
     "Research/Prompts",
