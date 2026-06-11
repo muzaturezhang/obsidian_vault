@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "draft/Untitled.md",
-                "mode": "source",
+                "file": "draft/AI agent Workflow.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "AI agent Workflow"
             }
           },
           {
@@ -198,8 +198,9 @@
   },
   "active": "60cdcdfcd3999fa5",
   "lastOpenFiles": [
-    "draft/自动化实验流程理解.md",
     "draft/Untitled.md",
+    "draft/AI agent Workflow.md",
+    "draft/自动化实验流程理解.md",
     "draft/更新的metadata字段.md",
     "draft/做数据盘点 + 写第一版筛选脚本2.md",
     "draft/做数据盘点 + 写第一版筛选脚本list.md",
@@ -227,7 +228,6 @@
     "Research/Research Spirits/Research Spirits.md",
     "Research/Unix filesystem structure.md",
     "Research/To Be Answered and Learned.md",
-    "Research/Python Environment.md",
     "Research/To Be Questioned and Arranged",
     "Multi-agent-conversation拷打/「C」main_wo_supr.py",
     "Research/Prompts",
