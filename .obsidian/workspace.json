@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "draft/AI agent Workflow.md",
-                "mode": "preview",
+                "file": "draft/Untitled.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "AI agent Workflow"
+              "title": "Untitled"
             }
           },
           {
@@ -198,8 +198,8 @@
   },
   "active": "60cdcdfcd3999fa5",
   "lastOpenFiles": [
-    "draft/Untitled.md",
     "draft/AI agent Workflow.md",
+    "draft/Untitled.md",
     "draft/自动化实验流程理解.md",
     "draft/更新的metadata字段.md",
     "draft/做数据盘点 + 写第一版筛选脚本2.md",
