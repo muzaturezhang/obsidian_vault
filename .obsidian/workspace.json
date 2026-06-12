@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
+                "file": "draft/260612 初次审查Agent科研流程规划2.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "260612 初次审查Agent科研流程规划2"
             }
           }
         ],
@@ -199,17 +199,19 @@
   },
   "active": "6685a6a0dba54265",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "draft/Untitled.md",
-    "draft/AI agent Workflow.md",
-    "draft/自动化实验流程理解.md",
-    "draft/更新的metadata字段.md",
+    "draft/260612 初次审查Agent科研流程规划2.md",
+    "draft/做数据盘点 + 写第一版筛选脚本.md",
+    "draft/260612 初次审查Agent科研流程规划.md",
     "draft/做数据盘点 + 写第一版筛选脚本2.md",
     "draft/做数据盘点 + 写第一版筛选脚本list.md",
+    "draft/更新的metadata字段.md",
+    "draft/自动化实验流程理解.md",
+    "Untitled 1.md",
+    "draft/AI agent Workflow.md",
     "Research/Professional Questions/Questions List.md",
     "Research/Prompts/请担任我的科研导航员。目标是XXX。不要一次给完整计划。每次只给我当前最值得做的一步。等我执行并汇报结果后，再决定下一步。.md",
     "Prompts",
-    "draft/做数据盘点 + 写第一版筛选脚本.md",
     "Untitled.md",
     "Untitled 4.base",
     "draft",
@@ -227,8 +229,6 @@
     "Information Gap/Questions.md",
     "Information Gap/国产化：IOE.md",
     "Research/Standard Workflow/Research Records.md",
-    "Research/Research Spirits/Research Spirits.md",
-    "Research/Unix filesystem structure.md",
     "Research/To Be Questioned and Arranged",
     "Multi-agent-conversation拷打/「C」main_wo_supr.py",
     "Research/Prompts",
