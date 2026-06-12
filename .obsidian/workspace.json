@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "60cdcdfcd3999fa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "draft/Untitled.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
             "id": "460439d2a0553f8e",
             "type": "leaf",
             "state": {
@@ -34,8 +20,23 @@
               "icon": "lucide-file",
               "title": "做数据盘点 + 写第一版筛选脚本2"
             }
+          },
+          {
+            "id": "6685a6a0dba54265",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,10 +197,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "60cdcdfcd3999fa5",
+  "active": "6685a6a0dba54265",
   "lastOpenFiles": [
-    "draft/AI agent Workflow.md",
+    "Untitled 1.md",
     "draft/Untitled.md",
+    "draft/AI agent Workflow.md",
     "draft/自动化实验流程理解.md",
     "draft/更新的metadata字段.md",
     "draft/做数据盘点 + 写第一版筛选脚本2.md",
@@ -227,7 +229,6 @@
     "Research/Standard Workflow/Research Records.md",
     "Research/Research Spirits/Research Spirits.md",
     "Research/Unix filesystem structure.md",
-    "Research/To Be Answered and Learned.md",
     "Research/To Be Questioned and Arranged",
     "Multi-agent-conversation拷打/「C」main_wo_supr.py",
     "Research/Prompts",
