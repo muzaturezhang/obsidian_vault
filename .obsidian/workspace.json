@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "562f8979329f4e9e",
+        "id": "4bde8e0ec2cdbc57",
         "type": "tabs",
         "children": [
           {
-            "id": "460439d2a0553f8e",
+            "id": "510c68b1a62565ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,34 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "写MIA论文的初稿"
-            }
-          },
-          {
-            "id": "6685a6a0dba54265",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "draft/260612 初次审查Agent科研流程规划2.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "260612 初次审查Agent科研流程规划2"
-            }
-          },
-          {
-            "id": "a92644e9d94e4f1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prompts.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Prompts"
             }
           }
         ]
@@ -210,14 +182,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "460439d2a0553f8e",
+  "active": "510c68b1a62565ec",
   "lastOpenFiles": [
-    "draft/做数据盘点 + 写第一版筛选脚本2.md",
-    "draft/临时plan（每个任务开始前）/写MIA论文的初稿.md",
-    "draft/临时plan（每个任务开始前）",
+    "draft/Untitled.md",
     "draft/260612 初次审查Agent科研流程规划2.md",
     "Prompts.md",
-    "draft/Untitled.md",
+    "Fixed Script/启动cc审查世界模型.md",
+    "Fixed Script/Untitled",
+    "draft/临时plan（每个任务开始前）/写MIA论文的初稿.md",
+    "Fixed Script",
+    "draft/做数据盘点 + 写第一版筛选脚本2.md",
+    "draft/临时plan（每个任务开始前）",
     "draft/做数据盘点 + 写第一版筛选脚本.md",
     "draft/260612 初次审查Agent科研流程规划.md",
     "draft/做数据盘点 + 写第一版筛选脚本list.md",
@@ -241,13 +216,9 @@
     "Research/Prompts/建立 mental map.md",
     "Research/Research Ideas/Find a.md",
     "Research/Research Ideas/how to design an experiment.md",
-    "Information Gap/zy课笔记.md",
-    "Information Gap/Questions.md",
     "Research/To Be Questioned and Arranged",
     "Multi-agent-conversation拷打/「C」main_wo_supr.py",
     "Research/Prompts",
-    "Untitled",
-    "Research/Fundament",
     "截屏2025-09-07 03.08.42.png",
     "Untitled.canvas",
     "100 Computer Science/120 Research/121 GraphRAG/将KG-RAG融入MAC的思路图.canvas",
