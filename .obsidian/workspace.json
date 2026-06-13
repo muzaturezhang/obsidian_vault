@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "draft/做数据盘点 + 写第一版筛选脚本2.md",
+                "file": "draft/临时plan（每个任务开始前）/写MIA论文的初稿.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "做数据盘点 + 写第一版筛选脚本2"
+              "title": "写MIA论文的初稿"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Prompts"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,14 +210,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a92644e9d94e4f1f",
+  "active": "460439d2a0553f8e",
   "lastOpenFiles": [
+    "draft/做数据盘点 + 写第一版筛选脚本2.md",
+    "draft/临时plan（每个任务开始前）/写MIA论文的初稿.md",
+    "draft/临时plan（每个任务开始前）",
     "draft/260612 初次审查Agent科研流程规划2.md",
     "Prompts.md",
     "draft/Untitled.md",
     "draft/做数据盘点 + 写第一版筛选脚本.md",
     "draft/260612 初次审查Agent科研流程规划.md",
-    "draft/做数据盘点 + 写第一版筛选脚本2.md",
     "draft/做数据盘点 + 写第一版筛选脚本list.md",
     "draft/更新的metadata字段.md",
     "draft/自动化实验流程理解.md",
@@ -242,13 +243,11 @@
     "Research/Research Ideas/how to design an experiment.md",
     "Information Gap/zy课笔记.md",
     "Information Gap/Questions.md",
-    "Information Gap/国产化：IOE.md",
     "Research/To Be Questioned and Arranged",
     "Multi-agent-conversation拷打/「C」main_wo_supr.py",
     "Research/Prompts",
     "Untitled",
     "Research/Fundament",
-    "Multi-agent-conversation拷打",
     "截屏2025-09-07 03.08.42.png",
     "Untitled.canvas",
     "100 Computer Science/120 Research/121 GraphRAG/将KG-RAG融入MAC的思路图.canvas",
