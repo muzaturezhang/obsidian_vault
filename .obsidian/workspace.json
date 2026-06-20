@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Experience/IEEE writing workflow for your paper.md",
+                "file": "draft/World Model.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "IEEE writing workflow for your paper"
+              "title": "World Model"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Untitled 2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,19 +196,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "37e6af012e93c552",
+  "active": "510c68b1a62565ec",
   "lastOpenFiles": [
+    "draft/Untitled.md",
+    "Research/Standard Workflow/Standard Workflow of Reproducing a Paper.md",
+    "Research/Common Issues/The Model in train.py and predict.py Mismatch.md",
+    "Research/Common Issues/How to firstly run a simple experiment (first verified version).md",
+    "Research/Basic Questions/Still questions about __name__.md",
+    "Multi-agent-conversation拷打/「C」main_wo_supr.py/Overview.md",
+    "Machine Learning/视觉基座模型(Vision Foundation Model).md",
+    "Machine Learning/Tensor.md",
+    "Multi-agent-conversation拷打/🧪 Multi-Agent Disease Diagnosis 项目审查问题（严格导师版）.md",
+    "Multi-agent-conversation拷打/🧠 Multi-Agent Diagnosis（机制层深度拷问）.md",
+    "Fixed Script/启动cc审查世界模型.md",
     "Research Experience/IEEE writing workflow for your paper.md",
     "Untitled 2.md",
     "draft/World Model.md",
     "Research Experience",
-    "draft/Untitled.md",
     "draft/临时plan（每个任务开始前）/优化agent系统.md",
     "draft/临时plan（每个任务开始前）/写MIA论文的初稿.md",
     "draft/260612 初次审查Agent科研流程规划.md",
     "draft/260612 初次审查Agent科研流程规划2.md",
     "Prompts.md",
-    "Fixed Script/启动cc审查世界模型.md",
     "Fixed Script/Untitled",
     "Fixed Script",
     "draft/做数据盘点 + 写第一版筛选脚本2.md",
@@ -220,19 +228,10 @@
     "draft/自动化实验流程理解.md",
     "Untitled 1.md",
     "draft/AI agent Workflow.md",
-    "Research/Professional Questions/Questions List.md",
-    "Research/Prompts/请担任我的科研导航员。目标是XXX。不要一次给完整计划。每次只给我当前最值得做的一步。等我执行并汇报结果后，再决定下一步。.md",
     "Prompts",
-    "Untitled.md",
     "Untitled 4.base",
     "draft",
-    "Multi-agent-conversation拷打/「C」main_wo_supr.py/Overview.md",
-    "Research/The Symbols.md",
-    "300 Math/310 数学建模/2025A问题五3.md",
     "Untitled 3.base",
-    "Paper调研.md",
-    "Research/Deferred Learning Backlog.md",
-    "Research/Math Foundation/Confidence Score.md",
     "Research/To Be Questioned and Arranged",
     "Multi-agent-conversation拷打/「C」main_wo_supr.py",
     "截屏2025-09-07 03.08.42.png",
