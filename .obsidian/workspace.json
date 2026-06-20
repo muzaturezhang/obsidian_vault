@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "draft/World Model.md",
+                "file": "Research Experience/IEEE writing workflow for your paper.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "World Model"
+              "title": "IEEE writing workflow for your paper"
             }
           }
         ]
@@ -184,8 +184,10 @@
   },
   "active": "510c68b1a62565ec",
   "lastOpenFiles": [
-    "draft/Untitled.md",
     "draft/World Model.md",
+    "Research Experience/IEEE writing workflow for your paper.md",
+    "Research Experience",
+    "draft/Untitled.md",
     "draft/临时plan（每个任务开始前）/优化agent系统.md",
     "draft/临时plan（每个任务开始前）/写MIA论文的初稿.md",
     "draft/260612 初次审查Agent科研流程规划.md",
@@ -216,10 +218,8 @@
     "Research/Deferred Learning Backlog.md",
     "Research/Math Foundation/Confidence Score.md",
     "Research/Prompts/建立 mental map.md",
-    "Research/Research Ideas/Find a.md",
     "Research/To Be Questioned and Arranged",
     "Multi-agent-conversation拷打/「C」main_wo_supr.py",
-    "Research/Prompts",
     "截屏2025-09-07 03.08.42.png",
     "Untitled.canvas",
     "100 Computer Science/120 Research/121 GraphRAG/将KG-RAG融入MAC的思路图.canvas",
