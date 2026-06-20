@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "draft/World Model.md",
+                "file": "To Be Learned/与World Model相关的方向.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "World Model"
+              "title": "与World Model相关的方向"
             }
           },
           {
@@ -198,6 +198,9 @@
   },
   "active": "510c68b1a62565ec",
   "lastOpenFiles": [
+    "draft/World Model.md",
+    "To Be Learned/与World Model相关的方向.md",
+    "To Be Learned",
     "draft/Untitled.md",
     "Research/Standard Workflow/Standard Workflow of Reproducing a Paper.md",
     "Research/Common Issues/The Model in train.py and predict.py Mismatch.md",
@@ -211,7 +214,6 @@
     "Fixed Script/启动cc审查世界模型.md",
     "Research Experience/IEEE writing workflow for your paper.md",
     "Untitled 2.md",
-    "draft/World Model.md",
     "Research Experience",
     "draft/临时plan（每个任务开始前）/优化agent系统.md",
     "draft/临时plan（每个任务开始前）/写MIA论文的初稿.md",
@@ -227,13 +229,11 @@
     "draft/更新的metadata字段.md",
     "draft/自动化实验流程理解.md",
     "Untitled 1.md",
-    "draft/AI agent Workflow.md",
     "Prompts",
     "Untitled 4.base",
     "draft",
     "Untitled 3.base",
     "Research/To Be Questioned and Arranged",
-    "Multi-agent-conversation拷打/「C」main_wo_supr.py",
     "截屏2025-09-07 03.08.42.png",
     "Untitled.canvas",
     "100 Computer Science/120 Research/121 GraphRAG/将KG-RAG融入MAC的思路图.canvas",
