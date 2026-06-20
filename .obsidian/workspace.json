@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "IEEE writing workflow for your paper"
             }
+          },
+          {
+            "id": "37e6af012e93c552",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,10 +197,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "510c68b1a62565ec",
+  "active": "37e6af012e93c552",
   "lastOpenFiles": [
-    "draft/World Model.md",
     "Research Experience/IEEE writing workflow for your paper.md",
+    "Untitled 2.md",
+    "draft/World Model.md",
     "Research Experience",
     "draft/Untitled.md",
     "draft/临时plan（每个任务开始前）/优化agent系统.md",
@@ -217,7 +233,6 @@
     "Paper调研.md",
     "Research/Deferred Learning Backlog.md",
     "Research/Math Foundation/Confidence Score.md",
-    "Research/Prompts/建立 mental map.md",
     "Research/To Be Questioned and Arranged",
     "Multi-agent-conversation拷打/「C」main_wo_supr.py",
     "截屏2025-09-07 03.08.42.png",
