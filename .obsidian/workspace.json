@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Be Learned/与World Model相关的方向.md",
+                "file": "draft/World Model.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "与World Model相关的方向"
+              "title": "World Model"
             }
           },
           {
@@ -198,10 +198,16 @@
   },
   "active": "510c68b1a62565ec",
   "lastOpenFiles": [
+    "draft/做数据盘点 + 写第一版筛选脚本2.md",
+    "draft/做数据盘点 + 写第一版筛选脚本.md",
+    "draft/Untitled.md",
+    "Blog Drafts/Untitled.md",
     "draft/World Model.md",
+    "Fixed Script/启动cc审查世界模型.md",
+    "draft/更新的metadata字段.md",
+    "draft/自动化实验流程理解.md",
     "To Be Learned/与World Model相关的方向.md",
     "To Be Learned",
-    "draft/Untitled.md",
     "Research/Standard Workflow/Standard Workflow of Reproducing a Paper.md",
     "Research/Common Issues/The Model in train.py and predict.py Mismatch.md",
     "Research/Common Issues/How to firstly run a simple experiment (first verified version).md",
@@ -211,7 +217,6 @@
     "Machine Learning/Tensor.md",
     "Multi-agent-conversation拷打/🧪 Multi-Agent Disease Diagnosis 项目审查问题（严格导师版）.md",
     "Multi-agent-conversation拷打/🧠 Multi-Agent Diagnosis（机制层深度拷问）.md",
-    "Fixed Script/启动cc审查世界模型.md",
     "Research Experience/IEEE writing workflow for your paper.md",
     "Untitled 2.md",
     "Research Experience",
@@ -222,13 +227,8 @@
     "Prompts.md",
     "Fixed Script/Untitled",
     "Fixed Script",
-    "draft/做数据盘点 + 写第一版筛选脚本2.md",
     "draft/临时plan（每个任务开始前）",
-    "draft/做数据盘点 + 写第一版筛选脚本.md",
     "draft/做数据盘点 + 写第一版筛选脚本list.md",
-    "draft/更新的metadata字段.md",
-    "draft/自动化实验流程理解.md",
-    "Untitled 1.md",
     "Prompts",
     "Untitled 4.base",
     "draft",
