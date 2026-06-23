@@ -34,7 +34,8 @@
 3. 总结了其他多视角的一些方法
 4
 
+- idea：如何防止roull-out生成的视角漂移呢
 另外我还有一个问题啊，感觉目前我们的baseline选择是不是还需要有针对性，（其实我现在还没有完全清楚我们目前这个task最终实现的效果是什么，是）
 
 ### 直接与我们的项目相关的
-- 目前我们的action condition似乎是直接硬编写在memory map中的？那之后是不是还要弄一个action embedding的模块
+- 目前我们的action condition似乎是直接硬编写在memory map中的？那之后是不是还要弄一个action embedding的模块（这个已经有了，而且用的方法和MultiWorld中是一样的）
